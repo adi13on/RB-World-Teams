@@ -487,8 +487,8 @@
       "yearsFreeAgent": 0,
       "value": 69.06336260931607,
       "valueNoPot": 67.98083360506763,
-      "valueFuzz": 69.06336260931607,
-      "valueNoPotFuzz": 67.98083360506763,
+      "valueFuzz": 74.47600763055829,
+      "valueNoPotFuzz": 73.39347862630984,
       "jerseyNumber": "20",
       "pid": 2
     },
@@ -807,8 +807,8 @@
       "yearsFreeAgent": 0,
       "value": 65.18430034409249,
       "valueNoPot": 64.37240359090616,
-      "valueFuzz": 65.18430034409249,
-      "valueNoPotFuzz": 64.37240359090616,
+      "valueFuzz": 67.8906228547136,
+      "valueNoPotFuzz": 67.07872610152727,
       "jerseyNumber": "2",
       "pid": 4
     },
@@ -969,8 +969,8 @@
       "yearsFreeAgent": 0,
       "value": 64.7332465923223,
       "valueNoPot": 59.861866073204325,
-      "valueFuzz": 64.7332465923223,
-      "valueNoPotFuzz": 59.861866073204325,
+      "valueFuzz": 61.12481657816084,
+      "valueNoPotFuzz": 56.253436059042855,
       "jerseyNumber": "10",
       "pid": 5
     },
@@ -1129,8 +1129,8 @@
       "yearsFreeAgent": 0,
       "value": 61.93671333134718,
       "valueNoPot": 58.95975856966396,
-      "valueFuzz": 61.93671333134718,
-      "valueNoPotFuzz": 58.95975856966396,
+      "valueFuzz": 62.838820834887535,
+      "valueNoPotFuzz": 59.861866073204325,
       "jerseyNumber": "30",
       "pid": 6
     },
@@ -1286,8 +1286,8 @@
       "yearsFreeAgent": 0,
       "value": 61.57587032993102,
       "valueNoPot": 60.7639735767447,
-      "valueFuzz": 61.57587032993102,
-      "valueNoPotFuzz": 60.7639735767447,
+      "valueFuzz": 60.67376282639066,
+      "valueNoPotFuzz": 59.861866073204325,
       "jerseyNumber": "33",
       "pid": 7
     },
@@ -1441,8 +1441,8 @@
       "yearsFreeAgent": 0,
       "value": 61.48565957957699,
       "valueNoPot": 59.861866073204325,
-      "valueFuzz": 61.48565957957699,
-      "valueNoPotFuzz": 59.861866073204325,
+      "valueFuzz": 63.28987458665772,
+      "valueNoPotFuzz": 61.66608108028506,
       "jerseyNumber": "23",
       "pid": 8
     },
@@ -1600,8 +1600,8 @@
       "yearsFreeAgent": 0,
       "value": 61.48565957957699,
       "valueNoPot": 57.155543562583226,
-      "valueFuzz": 61.48565957957699,
-      "valueNoPotFuzz": 57.155543562583226,
+      "valueFuzz": 56.07301455833478,
+      "valueNoPotFuzz": 51.74289854134102,
       "jerseyNumber": "12",
       "pid": 9
     },
@@ -1759,8 +1759,8 @@
       "yearsFreeAgent": 0,
       "value": 60.94439507745277,
       "valueNoPot": 57.155543562583226,
-      "valueFuzz": 60.94439507745277,
-      "valueNoPotFuzz": 57.155543562583226,
+      "valueFuzz": 60.042287573912404,
+      "valueNoPotFuzz": 56.253436059042855,
       "jerseyNumber": "4",
       "pid": 10
     },
@@ -1918,8 +1918,8 @@
       "yearsFreeAgent": 0,
       "value": 60.58355207603661,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 60.58355207603661,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 55.17090705479442,
+      "valueNoPotFuzz": 48.13446852717955,
       "jerseyNumber": "41",
       "pid": 11
     },
@@ -2074,8 +2074,8 @@
       "yearsFreeAgent": 0,
       "value": 57.516386563999376,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 57.516386563999376,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 54.81006405337828,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "25",
       "pid": 12
     },
@@ -2226,8 +2226,8 @@
       "yearsFreeAgent": 0,
       "value": 57.42617581364534,
       "valueNoPot": 54.44922105196213,
-      "valueFuzz": 57.42617581364534,
-      "valueNoPotFuzz": 54.44922105196213,
+      "valueFuzz": 56.52406831010497,
+      "valueNoPotFuzz": 53.547113548421756,
       "jerseyNumber": "25",
       "pid": 13
     },
@@ -2392,8 +2392,8 @@
       "yearsFreeAgent": 0,
       "value": 56.79470056116708,
       "valueNoPot": 50.840791037800656,
-      "valueFuzz": 56.79470056116708,
-      "valueNoPotFuzz": 50.840791037800656,
+      "valueFuzz": 59.50102307178818,
+      "valueNoPotFuzz": 53.547113548421756,
       "jerseyNumber": "5",
       "pid": 14
     },
@@ -2708,8 +2708,8 @@
       "yearsFreeAgent": 0,
       "value": 56.524068310104965,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 56.524068310104965,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 54.71985330302424,
+      "valueNoPotFuzz": 54.44922105196213,
       "jerseyNumber": "4",
       "pid": 16
     },
@@ -2872,8 +2872,8 @@
       "yearsFreeAgent": 0,
       "value": 56.47896293492796,
       "valueNoPot": 54.44922105196213,
-      "valueFuzz": 56.47896293492796,
-      "valueNoPotFuzz": 54.44922105196213,
+      "valueFuzz": 57.38107043846831,
+      "valueNoPotFuzz": 55.35132855550249,
       "jerseyNumber": "44",
       "pid": 17
     },
@@ -3032,8 +3032,8 @@
       "yearsFreeAgent": 0,
       "value": 56.253436059042855,
       "valueNoPot": 48.13446852717955,
-      "valueFuzz": 56.253436059042855,
-      "valueNoPotFuzz": 48.13446852717955,
+      "valueFuzz": 55.35132855550249,
+      "valueNoPotFuzz": 47.232361023639186,
       "jerseyNumber": "8",
       "pid": 18
     },
@@ -3349,8 +3349,8 @@
       "yearsFreeAgent": 0,
       "value": 56.07301455833479,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 56.07301455833479,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 60.58355207603661,
+      "valueNoPotFuzz": 53.547113548421756,
       "jerseyNumber": "21",
       "pid": 20
     },
@@ -3505,8 +3505,8 @@
       "yearsFreeAgent": 0,
       "value": 54.99048555408635,
       "valueNoPot": 46.33025352009882,
-      "valueFuzz": 54.99048555408635,
-      "valueNoPotFuzz": 46.33025352009882,
+      "valueFuzz": 55.89259305762671,
+      "valueNoPotFuzz": 47.232361023639186,
       "jerseyNumber": "3",
       "pid": 21
     },
@@ -3656,8 +3656,8 @@
       "yearsFreeAgent": 0,
       "value": 54.84710015756678,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 54.84710015756678,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 56.606209789470505,
+      "valueNoPotFuzz": 58.0576510661236,
       "jerseyNumber": "24",
       "pid": 22
     },
@@ -3808,8 +3808,8 @@
       "yearsFreeAgent": 0,
       "value": 54.99048555408635,
       "valueNoPot": 54.44922105196213,
-      "valueFuzz": 54.99048555408635,
-      "valueNoPotFuzz": 54.44922105196213,
+      "valueFuzz": 53.18627054700561,
+      "valueNoPotFuzz": 52.64500604488139,
       "jerseyNumber": "22",
       "pid": 23
     },
@@ -4122,8 +4122,8 @@
       "yearsFreeAgent": 0,
       "value": 54.76495867820125,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 54.76495867820125,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 53.86285117466089,
+      "valueNoPotFuzz": 42.72182350593735,
       "jerseyNumber": "2",
       "pid": 25
     },
@@ -4274,8 +4274,8 @@
       "yearsFreeAgent": 0,
       "value": 54.6296425526702,
       "valueNoPot": 45.42814601655845,
-      "valueFuzz": 54.6296425526702,
-      "valueNoPotFuzz": 45.42814601655845,
+      "valueFuzz": 52.82542754558946,
+      "valueNoPotFuzz": 43.623931009477715,
       "jerseyNumber": "9",
       "pid": 26
     },
@@ -4435,8 +4435,8 @@
       "yearsFreeAgent": 0,
       "value": 54.44922105196213,
       "valueNoPot": 46.33025352009882,
-      "valueFuzz": 54.44922105196213,
-      "valueNoPotFuzz": 46.33025352009882,
+      "valueFuzz": 50.840791037800656,
+      "valueNoPotFuzz": 42.72182350593735,
       "jerseyNumber": "43",
       "pid": 27
     },
@@ -4596,8 +4596,8 @@
       "yearsFreeAgent": 0,
       "value": 53.186270547005606,
       "valueNoPot": 41.81971600239698,
-      "valueFuzz": 53.186270547005606,
-      "valueNoPotFuzz": 41.81971600239698,
+      "valueFuzz": 48.67573302930377,
+      "valueNoPotFuzz": 37.309178484695146,
       "jerseyNumber": "3",
       "pid": 28
     },
@@ -4754,8 +4754,8 @@
       "yearsFreeAgent": 0,
       "value": 53.05095442147456,
       "valueNoPot": 52.64500604488139,
-      "valueFuzz": 53.05095442147456,
-      "valueNoPotFuzz": 52.64500604488139,
+      "valueFuzz": 50.34463191085345,
+      "valueNoPotFuzz": 49.938683534260285,
       "jerseyNumber": "6",
       "pid": 29
     },
@@ -4920,8 +4920,8 @@
       "yearsFreeAgent": 0,
       "value": 52.58376212772736,
       "valueNoPot": 55.35132855550249,
-      "valueFuzz": 52.58376212772736,
-      "valueNoPotFuzz": 55.35132855550249,
+      "valueFuzz": 53.44076425609071,
+      "valueNoPotFuzz": 56.253436059042855,
       "jerseyNumber": "55",
       "pid": 30
     },
@@ -5080,8 +5080,8 @@
       "yearsFreeAgent": 0,
       "value": 52.82542754558946,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 52.82542754558946,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 54.6296425526702,
+      "valueNoPotFuzz": 38.21128598823552,
       "jerseyNumber": "12",
       "pid": 31
     },
@@ -5236,8 +5236,8 @@
       "yearsFreeAgent": 0,
       "value": 52.78032217041245,
       "valueNoPot": 49.938683534260285,
-      "valueFuzz": 52.78032217041245,
-      "valueNoPotFuzz": 49.938683534260285,
+      "valueFuzz": 48.26978465271061,
+      "valueNoPotFuzz": 45.42814601655845,
       "jerseyNumber": "30",
       "pid": 32
     },
@@ -5398,8 +5398,8 @@
       "yearsFreeAgent": 0,
       "value": 52.78032217041245,
       "valueNoPot": 49.938683534260285,
-      "valueFuzz": 52.78032217041245,
-      "valueNoPotFuzz": 49.938683534260285,
+      "valueFuzz": 58.192967191654645,
+      "valueNoPotFuzz": 55.35132855550249,
       "jerseyNumber": "22",
       "pid": 33
     },
@@ -5549,8 +5549,8 @@
       "yearsFreeAgent": 0,
       "value": 52.28416304346524,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 52.28416304346524,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 56.79470056116708,
+      "valueNoPotFuzz": 53.547113548421756,
       "jerseyNumber": "42",
       "pid": 34
     },
@@ -5857,8 +5857,8 @@
       "yearsFreeAgent": 0,
       "value": 51.190626813729,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 51.190626813729,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 52.83246247017247,
+      "valueNoPotFuzz": 58.0576510661236,
       "jerseyNumber": "31",
       "pid": 36
     },
@@ -6019,8 +6019,8 @@
       "yearsFreeAgent": 0,
       "value": 50.38973728603048,
       "valueNoPot": 45.42814601655845,
-      "valueFuzz": 50.38973728603048,
-      "valueNoPotFuzz": 45.42814601655845,
+      "valueFuzz": 47.683414775409375,
+      "valueNoPotFuzz": 42.72182350593735,
       "jerseyNumber": "21",
       "pid": 37
     },
@@ -6330,8 +6330,8 @@
       "yearsFreeAgent": 0,
       "value": 50.119105034968364,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 50.119105034968364,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 51.02121253850872,
+      "valueNoPotFuzz": 44.52603851301809,
       "jerseyNumber": "9",
       "pid": 39
     },
@@ -6490,8 +6490,8 @@
       "yearsFreeAgent": 0,
       "value": 49.4876297824901,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 49.4876297824901,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 51.29184478957084,
+      "valueNoPotFuzz": 33.700748470533675,
       "jerseyNumber": "9",
       "pid": 40
     },
@@ -6645,8 +6645,8 @@
       "yearsFreeAgent": 0,
       "value": 48.71276913349228,
       "valueNoPot": 49.938683534260285,
-      "valueFuzz": 48.71276913349228,
-      "valueNoPotFuzz": 49.938683534260285,
+      "valueFuzz": 47.83321431754043,
+      "valueNoPotFuzz": 49.03657603071992,
       "jerseyNumber": "40",
       "pid": 41
     },
@@ -6801,8 +6801,8 @@
       "yearsFreeAgent": 0,
       "value": 48.67573302930377,
       "valueNoPot": 48.13446852717955,
-      "valueFuzz": 48.67573302930377,
-      "valueNoPotFuzz": 48.13446852717955,
+      "valueFuzz": 52.28416304346524,
+      "valueNoPotFuzz": 51.74289854134102,
       "jerseyNumber": "15",
       "pid": 42
     },
@@ -6957,8 +6957,8 @@
       "yearsFreeAgent": 0,
       "value": 48.31489002788763,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 48.31489002788763,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 51.02121253850873,
+      "valueNoPotFuzz": 39.11339349177588,
       "jerseyNumber": "4",
       "pid": 43
     },
@@ -7108,8 +7108,8 @@
       "yearsFreeAgent": 0,
       "value": 47.878319692717454,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 47.878319692717454,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 49.637429324621166,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "3",
       "pid": 44
     },
@@ -7269,8 +7269,8 @@
       "yearsFreeAgent": 0,
       "value": 47.81873090094042,
       "valueNoPot": 35.50496347761441,
-      "valueFuzz": 47.81873090094042,
-      "valueNoPotFuzz": 35.50496347761441,
+      "valueFuzz": 52.32926841864226,
+      "valueNoPotFuzz": 40.015500995316245,
       "jerseyNumber": "44",
       "pid": 45
     },
@@ -7426,8 +7426,8 @@
       "yearsFreeAgent": 0,
       "value": 47.77362552576341,
       "valueNoPot": 33.700748470533675,
-      "valueFuzz": 47.77362552576341,
-      "valueNoPotFuzz": 33.700748470533675,
+      "valueFuzz": 48.67573302930377,
+      "valueNoPotFuzz": 34.602855974074046,
       "jerseyNumber": "15",
       "pid": 46
     },
@@ -7582,8 +7582,8 @@
       "yearsFreeAgent": 0,
       "value": 47.77362552576341,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 47.77362552576341,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 45.96941051868267,
+      "valueNoPotFuzz": 34.602855974074046,
       "jerseyNumber": "25",
       "pid": 47
     },
@@ -7738,8 +7738,8 @@
       "yearsFreeAgent": 0,
       "value": 47.14215027328515,
       "valueNoPot": 46.33025352009882,
-      "valueFuzz": 47.14215027328515,
-      "valueNoPotFuzz": 46.33025352009882,
+      "valueFuzz": 48.04425777682551,
+      "valueNoPotFuzz": 47.232361023639186,
       "jerseyNumber": "32",
       "pid": 48
     },
@@ -7894,8 +7894,8 @@
       "yearsFreeAgent": 0,
       "value": 47.051939522931114,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 47.051939522931114,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 46.14983201939075,
+      "valueNoPotFuzz": 38.21128598823552,
       "jerseyNumber": "18",
       "pid": 49
     },
@@ -8047,8 +8047,8 @@
       "yearsFreeAgent": 0,
       "value": 46.871518022223036,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 46.871518022223036,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 47.77362552576341,
+      "valueNoPotFuzz": 33.700748470533675,
       "jerseyNumber": "24",
       "pid": 50
     },
@@ -8203,8 +8203,8 @@
       "yearsFreeAgent": 0,
       "value": 46.64599114633795,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 46.64599114633795,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 49.352313656959055,
+      "valueNoPotFuzz": 40.917608498856616,
       "jerseyNumber": "5",
       "pid": 51
     },
@@ -8355,8 +8355,8 @@
       "yearsFreeAgent": 0,
       "value": 46.51067502080689,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 46.51067502080689,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 44.70646001372616,
+      "valueNoPotFuzz": 32.79864096699331,
       "jerseyNumber": "53",
       "pid": 52
     },
@@ -8669,8 +8669,8 @@
       "yearsFreeAgent": 0,
       "value": 46.14983201939074,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 46.14983201939074,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 50.66036953709258,
+      "valueNoPotFuzz": 40.917608498856616,
       "jerseyNumber": "11",
       "pid": 54
     },
@@ -8825,8 +8825,8 @@
       "yearsFreeAgent": 0,
       "value": 45.72774510082057,
       "valueNoPot": 48.13446852717955,
-      "valueFuzz": 45.72774510082057,
-      "valueNoPotFuzz": 48.13446852717955,
+      "valueFuzz": 48.29875148591062,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "30",
       "pid": 55
     },
@@ -8981,8 +8981,8 @@
       "yearsFreeAgent": 0,
       "value": 45.51835676691248,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 45.51835676691248,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 41.90992675275102,
+      "valueNoPotFuzz": 40.015500995316245,
       "jerseyNumber": "7",
       "pid": 56
     },
@@ -9132,8 +9132,8 @@
       "yearsFreeAgent": 0,
       "value": 45.42814601655845,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 45.42814601655845,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 47.232361023639186,
+      "valueNoPotFuzz": 39.11339349177588,
       "jerseyNumber": "5",
       "pid": 57
     },
@@ -9288,8 +9288,8 @@
       "yearsFreeAgent": 0,
       "value": 45.24772451585038,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 45.24772451585038,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 47.95404702647148,
+      "valueNoPotFuzz": 35.50496347761441,
       "jerseyNumber": "15",
       "pid": 58
     },
@@ -9441,8 +9441,8 @@
       "yearsFreeAgent": 0,
       "value": 45.15751376549635,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 45.15751376549635,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 44.25540626195597,
+      "valueNoPotFuzz": 37.309178484695146,
       "jerseyNumber": "8",
       "pid": 59
     },
@@ -9594,8 +9594,8 @@
       "yearsFreeAgent": 0,
       "value": 44.88688151443423,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 44.88688151443423,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 42.18055900381313,
+      "valueNoPotFuzz": 34.602855974074046,
       "jerseyNumber": "9",
       "pid": 60
     },
@@ -9747,8 +9747,8 @@
       "yearsFreeAgent": 0,
       "value": 44.88688151443423,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 44.88688151443423,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 46.691096521514964,
+      "valueNoPotFuzz": 39.11339349177588,
       "jerseyNumber": "33",
       "pid": 61
     },
@@ -9902,8 +9902,8 @@
       "yearsFreeAgent": 0,
       "value": 44.30051163713299,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 44.30051163713299,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 50.61526416191556,
+      "valueNoPotFuzz": 49.938683534260285,
       "jerseyNumber": "7",
       "pid": 62
     },
@@ -10054,8 +10054,8 @@
       "yearsFreeAgent": 0,
       "value": 43.623931009477715,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 43.623931009477715,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 41.81971600239699,
+      "valueNoPotFuzz": 30.994425959912576,
       "jerseyNumber": "10",
       "pid": 63
     },
@@ -10210,8 +10210,8 @@
       "yearsFreeAgent": 0,
       "value": 43.26308800806157,
       "valueNoPot": 40.015500995316245,
-      "valueFuzz": 43.26308800806157,
-      "valueNoPotFuzz": 40.015500995316245,
+      "valueFuzz": 40.556765497440466,
+      "valueNoPotFuzz": 37.309178484695146,
       "jerseyNumber": "34",
       "pid": 64
     },
@@ -10367,8 +10367,8 @@
       "yearsFreeAgent": 0,
       "value": 42.94735038182244,
       "valueNoPot": 28.288103449291473,
-      "valueFuzz": 42.94735038182244,
-      "valueNoPotFuzz": 28.288103449291473,
+      "valueFuzz": 46.555780395983916,
+      "valueNoPotFuzz": 31.896533463452943,
       "jerseyNumber": "23",
       "pid": 65
     },
@@ -10542,8 +10542,8 @@
       "yearsFreeAgent": 0,
       "value": 73.61900550219494,
       "valueNoPot": 71.5892636192291,
-      "valueFuzz": 73.61900550219494,
-      "valueNoPotFuzz": 71.5892636192291,
+      "valueFuzz": 74.52111300573529,
+      "valueNoPotFuzz": 72.49137112276946,
       "jerseyNumber": "32",
       "pid": 66
     },
@@ -10718,8 +10718,8 @@
       "yearsFreeAgent": 0,
       "value": 70.8224722412198,
       "valueNoPot": 67.98083360506763,
-      "valueFuzz": 70.8224722412198,
-      "valueNoPotFuzz": 67.98083360506763,
+      "valueFuzz": 72.62668724830053,
+      "valueNoPotFuzz": 69.78504861214836,
       "jerseyNumber": "9",
       "pid": 67
     },
@@ -11055,8 +11055,8 @@
       "yearsFreeAgent": 0,
       "value": 68.74762498307695,
       "valueNoPot": 65.27451109444652,
-      "valueFuzz": 68.74762498307695,
-      "valueNoPotFuzz": 65.27451109444652,
+      "valueFuzz": 70.55183999015769,
+      "valueNoPotFuzz": 67.07872610152727,
       "jerseyNumber": "26",
       "pid": 69
     },
@@ -11224,8 +11224,8 @@
       "yearsFreeAgent": 0,
       "value": 68.1418888554033,
       "valueNoPot": 72.49137112276946,
-      "valueFuzz": 68.1418888554033,
-      "valueNoPotFuzz": 72.49137112276946,
+      "valueFuzz": 68.98986990873125,
+      "valueNoPotFuzz": 73.39347862630984,
       "jerseyNumber": "55",
       "pid": 70
     },
@@ -11389,8 +11389,8 @@
       "yearsFreeAgent": 0,
       "value": 68.11614973059868,
       "valueNoPot": 67.98083360506763,
-      "valueFuzz": 68.11614973059868,
-      "valueNoPotFuzz": 67.98083360506763,
+      "valueFuzz": 70.82247224121978,
+      "valueNoPotFuzz": 70.68715611568874,
       "jerseyNumber": "10",
       "pid": 71
     },
@@ -11556,8 +11556,8 @@
       "yearsFreeAgent": 0,
       "value": 67.1527983099043,
       "valueNoPot": 70.68715611568874,
-      "valueFuzz": 67.1527983099043,
-      "valueNoPotFuzz": 70.68715611568874,
+      "valueFuzz": 64.58179192481424,
+      "valueNoPotFuzz": 67.98083360506763,
       "jerseyNumber": "13",
       "pid": 72
     },
@@ -11720,8 +11720,8 @@
       "yearsFreeAgent": 0,
       "value": 66.49235622422603,
       "valueNoPot": 65.27451109444652,
-      "valueFuzz": 66.49235622422603,
-      "valueNoPotFuzz": 65.27451109444652,
+      "valueFuzz": 64.6881412171453,
+      "valueNoPotFuzz": 63.470296087365796,
       "jerseyNumber": "7",
       "pid": 73
     },
@@ -11891,8 +11891,8 @@
       "yearsFreeAgent": 0,
       "value": 66.30386545252944,
       "valueNoPot": 67.98083360506763,
-      "valueFuzz": 66.30386545252944,
-      "valueNoPotFuzz": 67.98083360506763,
+      "valueFuzz": 68.06297508443315,
+      "valueNoPotFuzz": 69.78504861214836,
       "jerseyNumber": "33",
       "pid": 74
     },
@@ -12216,8 +12216,8 @@
       "yearsFreeAgent": 0,
       "value": 64.20224472317649,
       "valueNoPot": 69.78504861214836,
-      "valueFuzz": 64.20224472317649,
-      "valueNoPotFuzz": 69.78504861214836,
+      "valueFuzz": 65.86212252969078,
+      "valueNoPotFuzz": 71.5892636192291,
       "jerseyNumber": "33",
       "pid": 76
     },
@@ -12368,8 +12368,8 @@
       "yearsFreeAgent": 0,
       "value": 64.01156058949002,
       "valueNoPot": 58.0576510661236,
-      "valueFuzz": 64.01156058949002,
-      "valueNoPotFuzz": 58.0576510661236,
+      "valueFuzz": 64.9136680930304,
+      "valueNoPotFuzz": 58.95975856966396,
       "jerseyNumber": "43",
       "pid": 77
     },
@@ -12693,8 +12693,8 @@
       "yearsFreeAgent": 0,
       "value": 63.470296087365796,
       "valueNoPot": 63.470296087365796,
-      "valueFuzz": 63.470296087365796,
-      "valueNoPotFuzz": 63.470296087365796,
+      "valueFuzz": 60.7639735767447,
+      "valueNoPotFuzz": 60.7639735767447,
       "jerseyNumber": "54",
       "pid": 79
     },
@@ -12849,8 +12849,8 @@
       "yearsFreeAgent": 0,
       "value": 62.86778766808755,
       "valueNoPot": 66.1766185979869,
-      "valueFuzz": 62.86778766808755,
-      "valueNoPotFuzz": 66.1766185979869,
+      "valueFuzz": 67.1527983099043,
+      "valueNoPotFuzz": 70.68715611568874,
       "jerseyNumber": "44",
       "pid": 80
     },
@@ -13017,8 +13017,8 @@
       "yearsFreeAgent": 0,
       "value": 62.70350470935648,
       "valueNoPot": 62.56818858382543,
-      "valueFuzz": 62.70350470935648,
-      "valueNoPotFuzz": 62.56818858382543,
+      "valueFuzz": 64.50771971643721,
+      "valueNoPotFuzz": 64.37240359090616,
       "jerseyNumber": "24",
       "pid": 81
     },
@@ -13184,8 +13184,8 @@
       "yearsFreeAgent": 0,
       "value": 61.48565957957699,
       "valueNoPot": 59.861866073204325,
-      "valueFuzz": 61.48565957957699,
-      "valueNoPotFuzz": 59.861866073204325,
+      "valueFuzz": 60.583552076036625,
+      "valueNoPotFuzz": 58.95975856966396,
       "jerseyNumber": "17",
       "pid": 82
     },
@@ -13506,8 +13506,8 @@
       "yearsFreeAgent": 0,
       "value": 59.86633533954273,
       "valueNoPot": 64.37240359090616,
-      "valueFuzz": 59.86633533954273,
-      "valueNoPotFuzz": 64.37240359090616,
+      "valueFuzz": 59.02737536125019,
+      "valueNoPotFuzz": 63.470296087365796,
       "jerseyNumber": "7",
       "pid": 84
     },
@@ -13669,8 +13669,8 @@
       "yearsFreeAgent": 0,
       "value": 59.63633919731923,
       "valueNoPot": 50.840791037800656,
-      "valueFuzz": 59.63633919731923,
-      "valueNoPotFuzz": 50.840791037800656,
+      "valueFuzz": 57.8321241902385,
+      "valueNoPotFuzz": 49.03657603071992,
       "jerseyNumber": "40",
       "pid": 85
     },
@@ -13824,8 +13824,8 @@
       "yearsFreeAgent": 0,
       "value": 59.23039082072607,
       "valueNoPot": 58.95975856966396,
-      "valueFuzz": 59.23039082072607,
-      "valueNoPotFuzz": 58.95975856966396,
+      "valueFuzz": 58.32828331718571,
+      "valueNoPotFuzz": 58.0576510661236,
       "jerseyNumber": "8",
       "pid": 86
     },
@@ -13982,8 +13982,8 @@
       "yearsFreeAgent": 0,
       "value": 58.86954781930993,
       "valueNoPot": 58.0576510661236,
-      "valueFuzz": 58.86954781930993,
-      "valueNoPotFuzz": 58.0576510661236,
+      "valueFuzz": 57.96744031576955,
+      "valueNoPotFuzz": 57.155543562583226,
       "jerseyNumber": "13",
       "pid": 87
     },
@@ -14150,8 +14150,8 @@
       "yearsFreeAgent": 0,
       "value": 58.39267240037653,
       "valueNoPot": 63.470296087365796,
-      "valueFuzz": 58.39267240037653,
-      "valueNoPotFuzz": 63.470296087365796,
+      "valueFuzz": 59.22261130363367,
+      "valueNoPotFuzz": 64.37240359090616,
       "jerseyNumber": "36",
       "pid": 88
     },
@@ -14305,8 +14305,8 @@
       "yearsFreeAgent": 0,
       "value": 58.012545690946574,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 58.012545690946574,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 60.71886820156767,
+      "valueNoPotFuzz": 56.253436059042855,
       "jerseyNumber": "14",
       "pid": 89
     },
@@ -14460,8 +14460,8 @@
       "yearsFreeAgent": 0,
       "value": 57.87722956541552,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 57.87722956541552,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 60.583552076036625,
+      "valueNoPotFuzz": 58.95975856966396,
       "jerseyNumber": "17",
       "pid": 90
     },
@@ -14617,8 +14617,8 @@
       "yearsFreeAgent": 0,
       "value": 57.69680806470744,
       "valueNoPot": 57.155543562583226,
-      "valueFuzz": 57.69680806470744,
-      "valueNoPotFuzz": 57.155543562583226,
+      "valueFuzz": 58.59891556824782,
+      "valueNoPotFuzz": 58.0576510661236,
       "jerseyNumber": "22",
       "pid": 91
     },
@@ -14778,8 +14778,8 @@
       "yearsFreeAgent": 0,
       "value": 57.3359650632913,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 57.3359650632913,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 51.92332004204909,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "1",
       "pid": 92
     },
@@ -14929,8 +14929,8 @@
       "yearsFreeAgent": 0,
       "value": 57.155543562583226,
       "valueNoPot": 51.74289854134102,
-      "valueFuzz": 57.155543562583226,
-      "valueNoPotFuzz": 51.74289854134102,
+      "valueFuzz": 54.44922105196213,
+      "valueNoPotFuzz": 49.03657603071992,
       "jerseyNumber": "10",
       "pid": 93
     },
@@ -15084,8 +15084,8 @@
       "yearsFreeAgent": 0,
       "value": 57.06533281222919,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 57.06533281222919,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 57.96744031576955,
+      "valueNoPotFuzz": 57.155543562583226,
       "jerseyNumber": "35",
       "pid": 94
     },
@@ -15394,8 +15394,8 @@
       "yearsFreeAgent": 0,
       "value": 56.569173685281996,
       "valueNoPot": 55.35132855550249,
-      "valueFuzz": 56.569173685281996,
-      "valueNoPotFuzz": 55.35132855550249,
+      "valueFuzz": 60.17760369944346,
+      "valueNoPotFuzz": 58.95975856966396,
       "jerseyNumber": "14",
       "pid": 96
     },
@@ -15545,8 +15545,8 @@
       "yearsFreeAgent": 0,
       "value": 56.524068310104965,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 56.524068310104965,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 55.6219608065646,
+      "valueNoPotFuzz": 55.35132855550249,
       "jerseyNumber": "41",
       "pid": 97
     },
@@ -15711,8 +15711,8 @@
       "yearsFreeAgent": 0,
       "value": 55.90285569060512,
       "valueNoPot": 60.7639735767447,
-      "valueFuzz": 55.90285569060512,
-      "valueNoPotFuzz": 60.7639735767447,
+      "valueFuzz": 57.5627334971194,
+      "valueNoPotFuzz": 62.56818858382543,
       "jerseyNumber": "32",
       "pid": 98
     },
@@ -16017,8 +16017,8 @@
       "yearsFreeAgent": 0,
       "value": 55.98280380798075,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 55.98280380798075,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 53.27648129735965,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "22",
       "pid": 100
     },
@@ -16170,8 +16170,8 @@
       "yearsFreeAgent": 0,
       "value": 55.72665497351865,
       "valueNoPot": 57.155543562583226,
-      "valueFuzz": 55.72665497351865,
-      "valueNoPotFuzz": 57.155543562583226,
+      "valueFuzz": 52.20843570971121,
+      "valueNoPotFuzz": 53.547113548421756,
       "jerseyNumber": "55",
       "pid": 101
     },
@@ -16327,8 +16327,8 @@
       "yearsFreeAgent": 0,
       "value": 55.80238230727268,
       "valueNoPot": 54.44922105196213,
-      "valueFuzz": 55.80238230727268,
-      "valueNoPotFuzz": 54.44922105196213,
+      "valueFuzz": 53.99816730019194,
+      "valueNoPotFuzz": 52.64500604488139,
       "jerseyNumber": "24",
       "pid": 102
     },
@@ -16480,8 +16480,8 @@
       "yearsFreeAgent": 0,
       "value": 55.42217305548412,
       "valueNoPot": 58.95975856966396,
-      "valueFuzz": 55.42217305548412,
-      "valueNoPotFuzz": 58.95975856966396,
+      "valueFuzz": 53.72621094882823,
+      "valueNoPotFuzz": 57.155543562583226,
       "jerseyNumber": "32",
       "pid": 103
     },
@@ -16642,8 +16642,8 @@
       "yearsFreeAgent": 0,
       "value": 55.42217305548412,
       "valueNoPot": 58.95975856966396,
-      "valueFuzz": 55.42217305548412,
-      "valueNoPotFuzz": 58.95975856966396,
+      "valueFuzz": 59.66207832212385,
+      "valueNoPotFuzz": 63.470296087365796,
       "jerseyNumber": "50",
       "pid": 104
     },
@@ -16800,8 +16800,8 @@
       "yearsFreeAgent": 0,
       "value": 55.42217305548412,
       "valueNoPot": 58.95975856966396,
-      "valueFuzz": 55.42217305548412,
-      "valueNoPotFuzz": 58.95975856966396,
+      "valueFuzz": 53.72621094882823,
+      "valueNoPotFuzz": 57.155543562583226,
       "jerseyNumber": "22",
       "pid": 105
     },
@@ -16966,8 +16966,8 @@
       "yearsFreeAgent": 0,
       "value": 55.07291678734798,
       "valueNoPot": 59.861866073204325,
-      "valueFuzz": 55.07291678734798,
-      "valueNoPotFuzz": 59.861866073204325,
+      "valueFuzz": 57.5627334971194,
+      "valueNoPotFuzz": 62.56818858382543,
       "jerseyNumber": "44",
       "pid": 106
     },
@@ -17120,8 +17120,8 @@
       "yearsFreeAgent": 0,
       "value": 55.07291678734798,
       "valueNoPot": 59.861866073204325,
-      "valueFuzz": 55.07291678734798,
-      "valueNoPotFuzz": 59.861866073204325,
+      "valueFuzz": 58.39267240037653,
+      "valueNoPotFuzz": 63.470296087365796,
       "jerseyNumber": "21",
       "pid": 107
     },
@@ -17281,8 +17281,8 @@
       "yearsFreeAgent": 0,
       "value": 55.15476851281741,
       "valueNoPot": 58.0576510661236,
-      "valueFuzz": 55.15476851281741,
-      "valueNoPotFuzz": 58.0576510661236,
+      "valueFuzz": 56.86877276954411,
+      "valueNoPotFuzz": 59.861866073204325,
       "jerseyNumber": "13",
       "pid": 108
     },
@@ -17595,8 +17595,8 @@
       "yearsFreeAgent": 0,
       "value": 54.86965284515529,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 54.86965284515529,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 52.23098839729972,
+      "valueNoPotFuzz": 53.547113548421756,
       "jerseyNumber": "26",
       "pid": 110
     },
@@ -17758,8 +17758,8 @@
       "yearsFreeAgent": 0,
       "value": 54.62964255267019,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 54.62964255267019,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 52.82542754558946,
+      "valueNoPotFuzz": 51.74289854134102,
       "jerseyNumber": "12",
       "pid": 111
     },
@@ -17912,8 +17912,8 @@
       "yearsFreeAgent": 0,
       "value": 54.35901030160808,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 54.35901030160808,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 50.75058028744662,
+      "valueNoPotFuzz": 49.938683534260285,
       "jerseyNumber": "6",
       "pid": 112
     },
@@ -18064,8 +18064,8 @@
       "yearsFreeAgent": 0,
       "value": 54.35901030160808,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 54.35901030160808,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 53.456902798067716,
+      "valueNoPotFuzz": 52.64500604488139,
       "jerseyNumber": "25",
       "pid": 113
     },
@@ -18227,8 +18227,8 @@
       "yearsFreeAgent": 0,
       "value": 53.99009802920343,
       "valueNoPot": 55.35132855550249,
-      "valueFuzz": 53.99009802920343,
-      "valueNoPotFuzz": 55.35132855550249,
+      "valueFuzz": 57.50831729301087,
+      "valueNoPotFuzz": 58.95975856966396,
       "jerseyNumber": "4",
       "pid": 114
     },
@@ -18387,8 +18387,8 @@
       "yearsFreeAgent": 0,
       "value": 53.99009802920343,
       "valueNoPot": 55.35132855550249,
-      "valueFuzz": 53.99009802920343,
-      "valueNoPotFuzz": 55.35132855550249,
+      "valueFuzz": 56.62876247705901,
+      "valueNoPotFuzz": 58.0576510661236,
       "jerseyNumber": "11",
       "pid": 115
     },
@@ -18543,8 +18543,8 @@
       "yearsFreeAgent": 0,
       "value": 53.99009802920343,
       "valueNoPot": 55.35132855550249,
-      "valueFuzz": 53.99009802920343,
-      "valueNoPotFuzz": 55.35132855550249,
+      "valueFuzz": 56.62876247705901,
+      "valueNoPotFuzz": 58.0576510661236,
       "jerseyNumber": "9",
       "pid": 116
     },
@@ -19178,8 +19178,8 @@
       "yearsFreeAgent": 0,
       "value": 53.41303898083371,
       "valueNoPot": 58.0576510661236,
-      "valueFuzz": 53.41303898083371,
-      "valueNoPotFuzz": 58.0576510661236,
+      "valueFuzz": 49.26334446454802,
+      "valueNoPotFuzz": 53.547113548421756,
       "jerseyNumber": "35",
       "pid": 120
     },
@@ -19338,8 +19338,8 @@
       "yearsFreeAgent": 0,
       "value": 53.817745799483866,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 53.817745799483866,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 52.9156382959435,
+      "valueNoPotFuzz": 52.64500604488139,
       "jerseyNumber": "6",
       "pid": 121
     },
@@ -19504,8 +19504,8 @@
       "yearsFreeAgent": 0,
       "value": 53.44076425609071,
       "valueNoPot": 56.253436059042855,
-      "valueFuzz": 53.44076425609071,
-      "valueNoPotFuzz": 56.253436059042855,
+      "valueFuzz": 55.15476851281741,
+      "valueNoPotFuzz": 58.0576510661236,
       "jerseyNumber": "14",
       "pid": 122
     },
@@ -19658,8 +19658,8 @@
       "yearsFreeAgent": 0,
       "value": 53.1546555132024,
       "valueNoPot": 57.155543562583226,
-      "valueFuzz": 53.1546555132024,
-      "valueNoPotFuzz": 57.155543562583226,
+      "valueFuzz": 54.832575469787486,
+      "valueNoPotFuzz": 58.95975856966396,
       "jerseyNumber": "5",
       "pid": 123
     },
@@ -19817,8 +19817,8 @@
       "yearsFreeAgent": 0,
       "value": 53.11054321325158,
       "valueNoPot": 54.44922105196213,
-      "valueFuzz": 53.11054321325158,
-      "valueNoPotFuzz": 54.44922105196213,
+      "valueFuzz": 50.471878765396006,
+      "valueNoPotFuzz": 51.74289854134102,
       "jerseyNumber": "2",
       "pid": 124
     },
@@ -20125,8 +20125,8 @@
       "yearsFreeAgent": 0,
       "value": 52.58310007757657,
       "valueNoPot": 57.155543562583226,
-      "valueFuzz": 52.58310007757657,
-      "valueNoPotFuzz": 57.155543562583226,
+      "valueFuzz": 50.92322227106229,
+      "valueNoPotFuzz": 55.35132855550249,
       "jerseyNumber": "44",
       "pid": 126
     },
@@ -20277,8 +20277,8 @@
       "yearsFreeAgent": 0,
       "value": 52.915638295943495,
       "valueNoPot": 49.938683534260285,
-      "valueFuzz": 52.915638295943495,
-      "valueNoPotFuzz": 49.938683534260285,
+      "valueFuzz": 55.6219608065646,
+      "valueNoPotFuzz": 52.64500604488139,
       "jerseyNumber": "6",
       "pid": 127
     },
@@ -20437,8 +20437,8 @@
       "yearsFreeAgent": 0,
       "value": 52.58376212772736,
       "valueNoPot": 55.35132855550249,
-      "valueFuzz": 52.58376212772736,
-      "valueNoPotFuzz": 55.35132855550249,
+      "valueFuzz": 50.01275574263732,
+      "valueNoPotFuzz": 52.64500604488139,
       "jerseyNumber": "12",
       "pid": 128
     },
@@ -20595,8 +20595,8 @@
       "yearsFreeAgent": 0,
       "value": 51.24673941439382,
       "valueNoPot": 50.840791037800656,
-      "valueFuzz": 51.24673941439382,
-      "valueNoPotFuzz": 50.840791037800656,
+      "valueFuzz": 56.65938443563602,
+      "valueNoPotFuzz": 56.253436059042855,
       "jerseyNumber": "13",
       "pid": 129
     },
@@ -20762,8 +20762,8 @@
       "yearsFreeAgent": 0,
       "value": 51.11142328886277,
       "valueNoPot": 50.840791037800656,
-      "valueFuzz": 51.11142328886277,
-      "valueNoPotFuzz": 50.840791037800656,
+      "valueFuzz": 49.30720828178203,
+      "valueNoPotFuzz": 49.03657603071992,
       "jerseyNumber": "22",
       "pid": 130
     },
@@ -21236,8 +21236,8 @@
       "yearsFreeAgent": 0,
       "value": 50.09328336780516,
       "valueNoPot": 54.44922105196213,
-      "valueFuzz": 50.09328336780516,
-      "valueNoPotFuzz": 54.44922105196213,
+      "valueFuzz": 50.92322227106229,
+      "valueNoPotFuzz": 55.35132855550249,
       "jerseyNumber": "17",
       "pid": 133
     },
@@ -21539,8 +21539,8 @@
       "yearsFreeAgent": 0,
       "value": 50.38973728603048,
       "valueNoPot": 46.33025352009882,
-      "valueFuzz": 50.38973728603048,
-      "valueNoPotFuzz": 46.33025352009882,
+      "valueFuzz": 48.58552227894974,
+      "valueNoPotFuzz": 44.52603851301809,
       "jerseyNumber": "3",
       "pid": 135
     },
@@ -21698,8 +21698,8 @@
       "yearsFreeAgent": 0,
       "value": 49.798815600032235,
       "valueNoPot": 53.547113548421756,
-      "valueFuzz": 49.798815600032235,
-      "valueNoPotFuzz": 53.547113548421756,
+      "valueFuzz": 50.63777557832478,
+      "valueNoPotFuzz": 54.44922105196213,
       "jerseyNumber": "20",
       "pid": 136
     },
@@ -21854,8 +21854,8 @@
       "yearsFreeAgent": 0,
       "value": 49.84847278390625,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 49.84847278390625,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 54.359010301608095,
+      "valueNoPotFuzz": 39.11339349177588,
       "jerseyNumber": "40",
       "pid": 137
     },
@@ -22008,8 +22008,8 @@
       "yearsFreeAgent": 0,
       "value": 48.9598556217397,
       "valueNoPot": 52.64500604488139,
-      "valueFuzz": 48.9598556217397,
-      "valueNoPotFuzz": 52.64500604488139,
+      "valueFuzz": 52.31569553490986,
+      "valueNoPotFuzz": 56.253436059042855,
       "jerseyNumber": "16",
       "pid": 138
     },
@@ -22163,8 +22163,8 @@
       "yearsFreeAgent": 0,
       "value": 48.63832462886056,
       "valueNoPot": 51.74289854134102,
-      "valueFuzz": 48.63832462886056,
-      "valueNoPotFuzz": 51.74289854134102,
+      "valueFuzz": 47.79034357553262,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "21",
       "pid": 139
     },
@@ -22322,8 +22322,8 @@
       "yearsFreeAgent": 0,
       "value": 48.43340556129088,
       "valueNoPot": 52.64500604488139,
-      "valueFuzz": 48.43340556129088,
-      "valueNoPotFuzz": 52.64500604488139,
+      "valueFuzz": 47.60346665803374,
+      "valueNoPotFuzz": 51.74289854134102,
       "jerseyNumber": "22",
       "pid": 140
     },
@@ -22482,8 +22482,8 @@
       "yearsFreeAgent": 0,
       "value": 48.73532182108079,
       "valueNoPot": 49.938683534260285,
-      "valueFuzz": 48.73532182108079,
-      "valueNoPotFuzz": 49.938683534260285,
+      "valueFuzz": 49.61487663703266,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "14",
       "pid": 141
     },
@@ -22635,8 +22635,8 @@
       "yearsFreeAgent": 0,
       "value": 48.58552227894974,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 48.58552227894974,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 49.4876297824901,
+      "valueNoPotFuzz": 44.52603851301809,
       "jerseyNumber": "43",
       "pid": 142
     },
@@ -22788,8 +22788,8 @@
       "yearsFreeAgent": 0,
       "value": 48.40510077824166,
       "valueNoPot": 48.13446852717955,
-      "valueFuzz": 48.40510077824166,
-      "valueNoPotFuzz": 48.13446852717955,
+      "valueFuzz": 51.11142328886277,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "15",
       "pid": 143
     },
@@ -22939,8 +22939,8 @@
       "yearsFreeAgent": 0,
       "value": 47.83321431754043,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 47.83321431754043,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 50.471878765396006,
+      "valueNoPotFuzz": 51.74289854134102,
       "jerseyNumber": "10",
       "pid": 144
     },
@@ -23095,8 +23095,8 @@
       "yearsFreeAgent": 0,
       "value": 47.77362552576341,
       "valueNoPot": 47.232361023639186,
-      "valueFuzz": 47.77362552576341,
-      "valueNoPotFuzz": 47.232361023639186,
+      "valueFuzz": 45.06730301514231,
+      "valueNoPotFuzz": 44.52603851301809,
       "jerseyNumber": "14",
       "pid": 145
     },
@@ -23251,8 +23251,8 @@
       "yearsFreeAgent": 0,
       "value": 47.28193566515461,
       "valueNoPot": 50.840791037800656,
-      "valueFuzz": 47.28193566515461,
-      "valueNoPotFuzz": 50.840791037800656,
+      "valueFuzz": 51.47673555661732,
+      "valueNoPotFuzz": 55.35132855550249,
       "jerseyNumber": "41",
       "pid": 146
     },
@@ -23407,8 +23407,8 @@
       "yearsFreeAgent": 0,
       "value": 47.68341477540937,
       "valueNoPot": 46.33025352009882,
-      "valueFuzz": 47.68341477540937,
-      "valueNoPotFuzz": 46.33025352009882,
+      "valueFuzz": 51.29184478957084,
+      "valueNoPotFuzz": 49.938683534260285,
       "jerseyNumber": "2",
       "pid": 147
     },
@@ -23563,8 +23563,8 @@
       "yearsFreeAgent": 0,
       "value": 47.683414775409375,
       "valueNoPot": 42.72182350593735,
-      "valueFuzz": 47.683414775409375,
-      "valueNoPotFuzz": 42.72182350593735,
+      "valueFuzz": 48.58552227894974,
+      "valueNoPotFuzz": 43.623931009477715,
       "jerseyNumber": "40",
       "pid": 148
     },
@@ -23714,8 +23714,8 @@
       "yearsFreeAgent": 0,
       "value": 47.63830940023235,
       "valueNoPot": 47.232361023639186,
-      "valueFuzz": 47.63830940023235,
-      "valueNoPotFuzz": 47.232361023639186,
+      "valueFuzz": 45.83409439315162,
+      "valueNoPotFuzz": 45.42814601655845,
       "jerseyNumber": "14",
       "pid": 149
     },
@@ -23868,8 +23868,8 @@
       "yearsFreeAgent": 0,
       "value": 46.94236252220467,
       "valueNoPot": 49.938683534260285,
-      "valueFuzz": 46.94236252220467,
-      "valueNoPotFuzz": 49.938683534260285,
+      "valueFuzz": 52.03024884217234,
+      "valueNoPotFuzz": 55.35132855550249,
       "jerseyNumber": "13",
       "pid": 150
     },
@@ -24019,8 +24019,8 @@
       "yearsFreeAgent": 0,
       "value": 46.998764876765584,
       "valueNoPot": 48.13446852717955,
-      "valueFuzz": 46.998764876765584,
-      "valueNoPotFuzz": 48.13446852717955,
+      "valueFuzz": 48.7578745086693,
+      "valueNoPotFuzz": 49.938683534260285,
       "jerseyNumber": "23",
       "pid": 151
     },
@@ -24174,8 +24174,8 @@
       "yearsFreeAgent": 0,
       "value": 47.051939522931114,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 47.051939522931114,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 47.954047026471486,
+      "valueNoPotFuzz": 40.015500995316245,
       "jerseyNumber": "43",
       "pid": 152
     },
@@ -24327,8 +24327,8 @@
       "yearsFreeAgent": 0,
       "value": 46.961728772577075,
       "valueNoPot": 44.52603851301809,
-      "valueFuzz": 46.961728772577075,
-      "valueNoPotFuzz": 44.52603851301809,
+      "valueFuzz": 45.15751376549635,
+      "valueNoPotFuzz": 42.72182350593735,
       "jerseyNumber": "3",
       "pid": 153
     },
@@ -24488,8 +24488,8 @@
       "yearsFreeAgent": 0,
       "value": 46.584747229183925,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 46.584747229183925,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 44.87074297245722,
+      "valueNoPotFuzz": 47.232361023639186,
       "jerseyNumber": "16",
       "pid": 154
     },
@@ -24642,8 +24642,8 @@
       "yearsFreeAgent": 0,
       "value": 46.584747229183925,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 46.584747229183925,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 45.72774510082057,
+      "valueNoPotFuzz": 48.13446852717955,
       "jerseyNumber": "40",
       "pid": 155
     },
@@ -24797,8 +24797,8 @@
       "yearsFreeAgent": 0,
       "value": 46.781307271869,
       "valueNoPot": 45.42814601655845,
-      "valueFuzz": 46.781307271869,
-      "valueNoPotFuzz": 45.42814601655845,
+      "valueFuzz": 45.87919976832863,
+      "valueNoPotFuzz": 44.52603851301809,
       "jerseyNumber": "10",
       "pid": 156
     },
@@ -24953,8 +24953,8 @@
       "yearsFreeAgent": 0,
       "value": 45.943588851519465,
       "valueNoPot": 49.938683534260285,
-      "valueFuzz": 45.943588851519465,
-      "valueNoPotFuzz": 49.938683534260285,
+      "valueFuzz": 45.11364994826233,
+      "valueNoPotFuzz": 49.03657603071992,
       "jerseyNumber": "12",
       "pid": 157
     },
@@ -25104,8 +25104,8 @@
       "yearsFreeAgent": 0,
       "value": 45.72774510082057,
       "valueNoPot": 48.13446852717955,
-      "valueFuzz": 45.72774510082057,
-      "valueNoPotFuzz": 48.13446852717955,
+      "valueFuzz": 44.87074297245722,
+      "valueNoPotFuzz": 47.232361023639186,
       "jerseyNumber": "4",
       "pid": 158
     },
@@ -25259,8 +25259,8 @@
       "yearsFreeAgent": 0,
       "value": 45.60401570856953,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 45.60401570856953,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 43.087135773691905,
+      "valueNoPotFuzz": 46.33025352009882,
       "jerseyNumber": "34",
       "pid": 159
     },
@@ -25563,8 +25563,8 @@
       "yearsFreeAgent": 0,
       "value": 45.7889890179746,
       "valueNoPot": 35.50496347761441,
-      "valueFuzz": 45.7889890179746,
-      "valueNoPotFuzz": 35.50496347761441,
+      "valueFuzz": 47.593204025055336,
+      "valueNoPotFuzz": 37.309178484695146,
       "jerseyNumber": "6",
       "pid": 161
     },
@@ -25714,8 +25714,8 @@
       "yearsFreeAgent": 0,
       "value": 45.24640041554878,
       "valueNoPot": 48.13446852717955,
-      "valueFuzz": 45.24640041554878,
-      "valueNoPotFuzz": 48.13446852717955,
+      "valueFuzz": 43.55043830889289,
+      "valueNoPotFuzz": 46.33025352009882,
       "jerseyNumber": "52",
       "pid": 162
     },
@@ -25865,8 +25865,8 @@
       "yearsFreeAgent": 0,
       "value": 45.24640041554878,
       "valueNoPot": 48.13446852717955,
-      "valueFuzz": 45.24640041554878,
-      "valueNoPotFuzz": 48.13446852717955,
+      "valueFuzz": 44.398419362220835,
+      "valueNoPotFuzz": 47.232361023639186,
       "jerseyNumber": "52",
       "pid": 163
     },
@@ -26021,8 +26021,8 @@
       "yearsFreeAgent": 0,
       "value": 45.11364994826233,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 45.11364994826233,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 43.453772141748054,
+      "valueNoPotFuzz": 47.232361023639186,
       "jerseyNumber": "44",
       "pid": 164
     },
@@ -26174,8 +26174,8 @@
       "yearsFreeAgent": 0,
       "value": 45.11364994826233,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 45.11364994826233,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 47.60346665803374,
+      "valueNoPotFuzz": 51.74289854134102,
       "jerseyNumber": "45",
       "pid": 165
     },
@@ -26326,8 +26326,8 @@
       "yearsFreeAgent": 0,
       "value": 45.563462142089506,
       "valueNoPot": 42.72182350593735,
-      "valueFuzz": 45.563462142089506,
-      "valueNoPotFuzz": 42.72182350593735,
+      "valueFuzz": 43.75924713500878,
+      "valueNoPotFuzz": 40.917608498856616,
       "jerseyNumber": "45",
       "pid": 166
     },
@@ -26478,8 +26478,8 @@
       "yearsFreeAgent": 0,
       "value": 44.87074297245722,
       "valueNoPot": 47.232361023639186,
-      "valueFuzz": 44.87074297245722,
-      "valueNoPotFuzz": 47.232361023639186,
+      "valueFuzz": 50.01275574263732,
+      "valueNoPotFuzz": 52.64500604488139,
       "jerseyNumber": "8",
       "pid": 167
     },
@@ -26633,8 +26633,8 @@
       "yearsFreeAgent": 0,
       "value": 44.93198688961125,
       "valueNoPot": 44.52603851301809,
-      "valueFuzz": 44.93198688961125,
-      "valueNoPotFuzz": 44.52603851301809,
+      "valueFuzz": 43.12777188253051,
+      "valueNoPotFuzz": 42.72182350593735,
       "jerseyNumber": "43",
       "pid": 168
     },
@@ -26788,8 +26788,8 @@
       "yearsFreeAgent": 0,
       "value": 44.93198688961125,
       "valueNoPot": 44.52603851301809,
-      "valueFuzz": 44.93198688961125,
-      "valueNoPotFuzz": 44.52603851301809,
+      "valueFuzz": 42.225664378990146,
+      "valueNoPotFuzz": 41.81971600239698,
       "jerseyNumber": "45",
       "pid": 169
     },
@@ -27247,8 +27247,8 @@
       "yearsFreeAgent": 0,
       "value": 44.01374084409388,
       "valueNoPot": 46.33025352009882,
-      "valueFuzz": 44.01374084409388,
-      "valueNoPotFuzz": 46.33025352009882,
+      "valueFuzz": 42.29973658736718,
+      "valueNoPotFuzz": 44.52603851301809,
       "jerseyNumber": "24",
       "pid": 172
     },
@@ -27402,8 +27402,8 @@
       "yearsFreeAgent": 0,
       "value": 44.30051163713299,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 44.30051163713299,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 46.10472664421373,
+      "valueNoPotFuzz": 45.42814601655845,
       "jerseyNumber": "21",
       "pid": 173
     },
@@ -27558,8 +27558,8 @@
       "yearsFreeAgent": 0,
       "value": 44.16519551160194,
       "valueNoPot": 35.50496347761441,
-      "valueFuzz": 44.16519551160194,
-      "valueNoPotFuzz": 35.50496347761441,
+      "valueFuzz": 45.96941051868267,
+      "valueNoPotFuzz": 37.309178484695146,
       "jerseyNumber": "7",
       "pid": 174
     },
@@ -27713,8 +27713,8 @@
       "yearsFreeAgent": 0,
       "value": 44.16519551160194,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 44.16519551160194,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 43.26308800806157,
+      "valueNoPotFuzz": 42.72182350593735,
       "jerseyNumber": "35",
       "pid": 175
     },
@@ -27864,8 +27864,8 @@
       "yearsFreeAgent": 0,
       "value": 44.0749847612479,
       "valueNoPot": 42.72182350593735,
-      "valueFuzz": 44.0749847612479,
-      "valueNoPotFuzz": 42.72182350593735,
+      "valueFuzz": 47.68341477540937,
+      "valueNoPotFuzz": 46.33025352009882,
       "jerseyNumber": "11",
       "pid": 176
     },
@@ -28021,8 +28021,8 @@
       "yearsFreeAgent": 0,
       "value": 42.98144853151166,
       "valueNoPot": 47.232361023639186,
-      "valueFuzz": 42.98144853151166,
-      "valueNoPotFuzz": 47.232361023639186,
+      "valueFuzz": 46.2651198443986,
+      "valueNoPotFuzz": 50.840791037800656,
       "jerseyNumber": "4",
       "pid": 177
     },
@@ -28173,8 +28173,8 @@
       "yearsFreeAgent": 0,
       "value": 43.087135773691905,
       "valueNoPot": 46.33025352009882,
-      "valueFuzz": 43.087135773691905,
-      "valueNoPotFuzz": 46.33025352009882,
+      "valueFuzz": 42.24817579539936,
+      "valueNoPotFuzz": 45.42814601655845,
       "jerseyNumber": "4",
       "pid": 178
     },
@@ -28336,8 +28336,8 @@
       "yearsFreeAgent": 0,
       "value": 43.082666507353494,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 43.082666507353494,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 42.18055900381313,
+      "valueNoPotFuzz": 31.896533463452943,
       "jerseyNumber": "3",
       "pid": 179
     },
@@ -28491,8 +28491,8 @@
       "yearsFreeAgent": 0,
       "value": 42.702457255564944,
       "valueNoPot": 45.42814601655845,
-      "valueFuzz": 42.702457255564944,
-      "valueNoPotFuzz": 45.42814601655845,
+      "valueFuzz": 43.55043830889289,
+      "valueNoPotFuzz": 46.33025352009882,
       "jerseyNumber": "3",
       "pid": 180
     },
@@ -28647,8 +28647,8 @@
       "yearsFreeAgent": 0,
       "value": 42.90224500664542,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 42.90224500664542,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 46.510675020806886,
+      "valueNoPotFuzz": 40.015500995316245,
       "jerseyNumber": "45",
       "pid": 181
     },
@@ -28802,8 +28802,8 @@
       "yearsFreeAgent": 0,
       "value": 42.57843810941779,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 42.57843810941779,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 39.93977366156222,
+      "valueNoPotFuzz": 40.917608498856616,
       "jerseyNumber": "3",
       "pid": 182
     },
@@ -28953,8 +28953,8 @@
       "yearsFreeAgent": 0,
       "value": 42.55588542182928,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 42.55588542182928,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 43.43544023778114,
+      "valueNoPotFuzz": 44.52603851301809,
       "jerseyNumber": "50",
       "pid": 183
     },
@@ -29265,8 +29265,8 @@
       "yearsFreeAgent": 0,
       "value": 42.53333273424077,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 42.53333273424077,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 43.41288755019263,
+      "valueNoPotFuzz": 44.52603851301809,
       "jerseyNumber": "12",
       "pid": 185
     },
@@ -29417,8 +29417,8 @@
       "yearsFreeAgent": 0,
       "value": 42.49629663005226,
       "valueNoPot": 41.81971600239698,
-      "valueFuzz": 42.49629663005226,
-      "valueNoPotFuzz": 41.81971600239698,
+      "valueFuzz": 44.30051163713299,
+      "valueNoPotFuzz": 43.623931009477715,
       "jerseyNumber": "50",
       "pid": 186
     },
@@ -29572,8 +29572,8 @@
       "yearsFreeAgent": 0,
       "value": 42.36098050452121,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 42.36098050452121,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 43.26308800806157,
+      "valueNoPotFuzz": 40.015500995316245,
       "jerseyNumber": "31",
       "pid": 187
     },
@@ -29735,8 +29735,8 @@
       "yearsFreeAgent": 0,
       "value": 42.36098050452121,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 42.36098050452121,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 39.6546579939001,
+      "valueNoPotFuzz": 33.700748470533675,
       "jerseyNumber": "12",
       "pid": 188
     },
@@ -29893,8 +29893,8 @@
       "yearsFreeAgent": 0,
       "value": 41.79389433523377,
       "valueNoPot": 45.42814601655845,
-      "valueFuzz": 41.79389433523377,
-      "valueNoPotFuzz": 45.42814601655845,
+      "valueFuzz": 42.62383323849092,
+      "valueNoPotFuzz": 46.33025352009882,
       "jerseyNumber": "23",
       "pid": 189
     },
@@ -30044,8 +30044,8 @@
       "yearsFreeAgent": 0,
       "value": 41.854476202237,
       "valueNoPot": 44.52603851301809,
-      "valueFuzz": 41.854476202237,
-      "valueNoPotFuzz": 44.52603851301809,
+      "valueFuzz": 40.15851409558111,
+      "valueNoPotFuzz": 42.72182350593735,
       "jerseyNumber": "20",
       "pid": 190
     },
@@ -30196,8 +30196,8 @@
       "yearsFreeAgent": 0,
       "value": 41.864821377574,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 41.864821377574,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 43.66903638465473,
+      "valueNoPotFuzz": 40.015500995316245,
       "jerseyNumber": "11",
       "pid": 191
     },
@@ -30343,8 +30343,8 @@
       "yearsFreeAgent": 0,
       "value": 41.774610627219964,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 41.774610627219964,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 45.38304064138144,
+      "valueNoPotFuzz": 40.917608498856616,
       "pid": 192
     },
     {
@@ -30488,8 +30488,8 @@
       "yearsFreeAgent": 0,
       "value": 41.44273445900383,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 41.44273445900383,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 42.29973658736718,
+      "valueNoPotFuzz": 44.52603851301809,
       "pid": 193
     },
     {
@@ -30640,8 +30640,8 @@
       "yearsFreeAgent": 1,
       "value": 41.72950525204294,
       "valueNoPot": 40.917608498856616,
-      "valueFuzz": 41.72950525204294,
-      "valueNoPotFuzz": 40.917608498856616,
+      "valueFuzz": 39.92529024496221,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 194
     },
     {
@@ -30786,8 +30786,8 @@
       "yearsFreeAgent": 1,
       "value": 41.63929450168891,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 41.63929450168891,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 36.2266494804467,
+      "valueNoPotFuzz": 29.19021095283184,
       "pid": 195
     },
     {
@@ -30932,8 +30932,8 @@
       "yearsFreeAgent": 1,
       "value": 41.45887300098084,
       "valueNoPot": 27.38599594575111,
-      "valueFuzz": 41.45887300098084,
-      "valueNoPotFuzz": 27.38599594575111,
+      "valueFuzz": 38.75255049035974,
+      "valueNoPotFuzz": 24.679673435130002,
       "pid": 196
     },
     {
@@ -31078,8 +31078,8 @@
       "yearsFreeAgent": 0,
       "value": 41.18824074991873,
       "valueNoPot": 40.917608498856616,
-      "valueFuzz": 41.18824074991873,
-      "valueNoPotFuzz": 40.917608498856616,
+      "valueFuzz": 40.286133246378355,
+      "valueNoPotFuzz": 40.015500995316245,
       "pid": 197
     },
     {
@@ -31223,8 +31223,8 @@
       "yearsFreeAgent": 1,
       "value": 40.570255838814276,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 40.570255838814276,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 38.89233588222919,
+      "valueNoPotFuzz": 41.81971600239698,
       "pid": 198
     },
     {
@@ -31371,8 +31371,8 @@
       "yearsFreeAgent": 1,
       "value": 40.07343466171628,
       "valueNoPot": 44.52603851301809,
-      "valueFuzz": 40.07343466171628,
-      "valueNoPotFuzz": 44.52603851301809,
+      "valueFuzz": 40.88533141490261,
+      "valueNoPotFuzz": 45.42814601655845,
       "pid": 199
     },
     {
@@ -31807,8 +31807,8 @@
       "yearsFreeAgent": 0,
       "value": 39.30407762546236,
       "valueNoPot": 42.72182350593735,
-      "valueFuzz": 39.30407762546236,
-      "valueNoPotFuzz": 42.72182350593735,
+      "valueFuzz": 35.984322012433815,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 202
     },
     {
@@ -32098,8 +32098,8 @@
       "yearsFreeAgent": 0,
       "value": 39.654657993900095,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 39.654657993900095,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 41.45887300098083,
+      "valueNoPotFuzz": 40.917608498856616,
       "pid": 204
     },
     {
@@ -32244,8 +32244,8 @@
       "yearsFreeAgent": 1,
       "value": 39.6546579939001,
       "valueNoPot": 30.994425959912576,
-      "valueFuzz": 39.6546579939001,
-      "valueNoPotFuzz": 30.994425959912576,
+      "valueFuzz": 43.26308800806157,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 205
     },
     {
@@ -32389,8 +32389,8 @@
       "yearsFreeAgent": 0,
       "value": 39.31053304225316,
       "valueNoPot": 41.81971600239698,
-      "valueFuzz": 39.31053304225316,
-      "valueNoPotFuzz": 41.81971600239698,
+      "valueFuzz": 35.91860882894138,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 206
     },
     {
@@ -32535,8 +32535,8 @@
       "yearsFreeAgent": 1,
       "value": 39.56444724354606,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 39.56444724354606,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 42.27076975416716,
+      "valueNoPotFuzz": 40.917608498856616,
       "pid": 207
     },
     {
@@ -32680,8 +32680,8 @@
       "yearsFreeAgent": 0,
       "value": 39.47423649319203,
       "valueNoPot": 35.50496347761441,
-      "valueFuzz": 39.47423649319203,
-      "valueNoPotFuzz": 35.50496347761441,
+      "valueFuzz": 38.57212898965166,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 208
     },
     {
@@ -32826,8 +32826,8 @@
       "yearsFreeAgent": 1,
       "value": 38.87685939040299,
       "valueNoPot": 42.72182350593735,
-      "valueFuzz": 38.87685939040299,
-      "valueNoPotFuzz": 42.72182350593735,
+      "valueFuzz": 34.77227024929432,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 209
     },
     {
@@ -32977,8 +32977,8 @@
       "yearsFreeAgent": 1,
       "value": 38.87685939040299,
       "valueNoPot": 42.72182350593735,
-      "valueFuzz": 38.87685939040299,
-      "valueNoPotFuzz": 42.72182350593735,
+      "valueFuzz": 41.33961287506819,
+      "valueNoPotFuzz": 45.42814601655845,
       "pid": 210
     },
     {
@@ -33122,8 +33122,8 @@
       "yearsFreeAgent": 0,
       "value": 38.87685939040299,
       "valueNoPot": 42.72182350593735,
-      "valueFuzz": 38.87685939040299,
-      "valueNoPotFuzz": 42.72182350593735,
+      "valueFuzz": 38.05594156218125,
+      "valueNoPotFuzz": 41.81971600239698,
       "pid": 211
     },
     {
@@ -33268,8 +33268,8 @@
       "yearsFreeAgent": 0,
       "value": 39.384025742837984,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 39.384025742837984,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 37.579810735757256,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 212
     },
     {
@@ -33413,8 +33413,8 @@
       "yearsFreeAgent": 1,
       "value": 39.06021884561036,
       "valueNoPot": 40.015500995316245,
-      "valueFuzz": 39.06021884561036,
-      "valueNoPotFuzz": 40.015500995316245,
+      "valueFuzz": 39.93977366156222,
+      "valueNoPotFuzz": 40.917608498856616,
       "pid": 213
     },
     {
@@ -33559,8 +33559,8 @@
       "yearsFreeAgent": 0,
       "value": 38.871728073913786,
       "valueNoPot": 40.917608498856616,
-      "valueFuzz": 38.871728073913786,
-      "valueNoPotFuzz": 40.917608498856616,
+      "valueFuzz": 36.30072168882374,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 214
     },
     {
@@ -33704,8 +33704,8 @@
       "yearsFreeAgent": 1,
       "value": 39.068288116598865,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 39.068288116598865,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 39.97039562013923,
+      "valueNoPotFuzz": 35.50496347761441,
       "pid": 215
     },
     {
@@ -33850,8 +33850,8 @@
       "yearsFreeAgent": 1,
       "value": 38.474138722205225,
       "valueNoPot": 41.81971600239698,
-      "valueFuzz": 38.474138722205225,
-      "valueNoPotFuzz": 41.81971600239698,
+      "valueFuzz": 40.96395543197664,
+      "valueNoPotFuzz": 44.52603851301809,
       "pid": 216
     },
     {
@@ -33995,8 +33995,8 @@
       "yearsFreeAgent": 0,
       "value": 38.46255198892522,
       "valueNoPot": 40.917608498856616,
-      "valueFuzz": 38.46255198892522,
-      "valueNoPotFuzz": 40.917608498856616,
+      "valueFuzz": 39.31053304225316,
+      "valueNoPotFuzz": 41.81971600239698,
       "pid": 217
     },
     {
@@ -34146,8 +34146,8 @@
       "yearsFreeAgent": 0,
       "value": 38.05594156218125,
       "valueNoPot": 41.81971600239698,
-      "valueFuzz": 38.05594156218125,
-      "valueNoPotFuzz": 41.81971600239698,
+      "valueFuzz": 40.51869504684646,
+      "valueNoPotFuzz": 44.52603851301809,
       "pid": 218
     },
     {
@@ -34292,8 +34292,8 @@
       "yearsFreeAgent": 1,
       "value": 38.05594156218125,
       "valueNoPot": 41.81971600239698,
-      "valueFuzz": 38.05594156218125,
-      "valueNoPotFuzz": 41.81971600239698,
+      "valueFuzz": 40.51869504684646,
+      "valueNoPotFuzz": 44.52603851301809,
       "pid": 219
     },
     {
@@ -34443,8 +34443,8 @@
       "yearsFreeAgent": 1,
       "value": 38.48191823929762,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 38.48191823929762,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 35.77559572867652,
+      "valueNoPotFuzz": 35.50496347761441,
       "pid": 220
     },
     {
@@ -34588,8 +34588,8 @@
       "yearsFreeAgent": 0,
       "value": 38.053375903936654,
       "valueNoPot": 40.917608498856616,
-      "valueFuzz": 38.053375903936654,
-      "valueNoPotFuzz": 40.917608498856616,
+      "valueFuzz": 37.21441592564411,
+      "valueNoPotFuzz": 40.015500995316245,
       "pid": 221
     },
     {
@@ -34733,8 +34733,8 @@
       "yearsFreeAgent": 0,
       "value": 38.053375903936654,
       "valueNoPot": 40.917608498856616,
-      "valueFuzz": 38.053375903936654,
-      "valueNoPotFuzz": 40.917608498856616,
+      "valueFuzz": 35.53649596905903,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 222
     },
     {
@@ -34878,8 +34878,8 @@
       "yearsFreeAgent": 1,
       "value": 38.01472594555043,
       "valueNoPot": 40.015500995316245,
-      "valueFuzz": 38.01472594555043,
-      "valueNoPotFuzz": 40.015500995316245,
+      "valueFuzz": 33.72971530373369,
+      "valueNoPotFuzz": 35.50496347761441,
       "pid": 223
     },
     {
@@ -35023,8 +35023,8 @@
       "yearsFreeAgent": 1,
       "value": 38.21128598823552,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 38.21128598823552,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 42.72182350593735,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 224
     },
     {
@@ -35169,8 +35169,8 @@
       "yearsFreeAgent": 1,
       "value": 37.64419981894809,
       "valueNoPot": 40.917608498856616,
-      "valueFuzz": 37.64419981894809,
-      "valueNoPotFuzz": 40.917608498856616,
+      "valueFuzz": 42.62383323849092,
+      "valueNoPotFuzz": 46.33025352009882,
       "pid": 225
     },
     {
@@ -35314,8 +35314,8 @@
       "yearsFreeAgent": 1,
       "value": 38.03086448752744,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 38.03086448752744,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 33.520326969825604,
+      "valueNoPotFuzz": 31.896533463452943,
       "pid": 226
     },
     {
@@ -35459,8 +35459,8 @@
       "yearsFreeAgent": 0,
       "value": 37.85044298681937,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 37.85044298681937,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 42.36098050452121,
+      "valueNoPotFuzz": 36.40707098115478,
       "pid": 227
     },
     {
@@ -35607,8 +35607,8 @@
       "yearsFreeAgent": 1,
       "value": 37.21441592564411,
       "valueNoPot": 40.015500995316245,
-      "valueFuzz": 37.21441592564411,
-      "valueNoPotFuzz": 40.015500995316245,
+      "valueFuzz": 42.24817579539936,
+      "valueNoPotFuzz": 45.42814601655845,
       "pid": 228
     },
     {
@@ -35752,8 +35752,8 @@
       "yearsFreeAgent": 1,
       "value": 37.48959998540322,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 37.48959998540322,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 33.881169971241754,
+      "valueNoPotFuzz": 32.79864096699331,
       "pid": 229
     },
     {
@@ -35898,8 +35898,8 @@
       "yearsFreeAgent": 1,
       "value": 37.15772381718708,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 37.15772381718708,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 35.44371956046039,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 230
     },
     {
@@ -36044,8 +36044,8 @@
       "yearsFreeAgent": 1,
       "value": 36.814260915690944,
       "valueNoPot": 40.015500995316245,
-      "valueFuzz": 36.814260915690944,
-      "valueNoPotFuzz": 40.015500995316245,
+      "valueFuzz": 40.1340165287195,
+      "valueNoPotFuzz": 43.623931009477715,
       "pid": 231
     },
     {
@@ -36189,8 +36189,8 @@
       "yearsFreeAgent": 0,
       "value": 36.767913982570924,
       "valueNoPot": 26.48388844221074,
-      "valueFuzz": 36.767913982570924,
-      "valueNoPotFuzz": 26.48388844221074,
+      "valueFuzz": 43.082666507353494,
+      "valueNoPotFuzz": 32.79864096699331,
       "pid": 232
     },
     {
@@ -36335,8 +36335,8 @@
       "yearsFreeAgent": 1,
       "value": 36.44410708534329,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 36.44410708534329,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 37.32366190129516,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 233
     },
     {
@@ -36480,8 +36480,8 @@
       "yearsFreeAgent": 0,
       "value": 36.58749248186285,
       "valueNoPot": 30.092318456372208,
-      "valueFuzz": 36.58749248186285,
-      "valueNoPotFuzz": 30.092318456372208,
+      "valueFuzz": 37.48959998540322,
+      "valueNoPotFuzz": 30.994425959912576,
       "pid": 234
     },
     {
@@ -36770,8 +36770,8 @@
       "yearsFreeAgent": 1,
       "value": 36.376449022577766,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 36.376449022577766,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 39.894668286385205,
+      "valueNoPotFuzz": 40.917608498856616,
       "pid": 236
     },
     {
@@ -36916,8 +36916,8 @@
       "yearsFreeAgent": 0,
       "value": 35.984322012433815,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 35.984322012433815,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 38.474138722205225,
+      "valueNoPotFuzz": 41.81971600239698,
       "pid": 237
     },
     {
@@ -37061,8 +37061,8 @@
       "yearsFreeAgent": 0,
       "value": 35.984322012433815,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 35.984322012433815,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 34.324444205919534,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 238
     },
     {
@@ -37213,8 +37213,8 @@
       "yearsFreeAgent": 1,
       "value": 35.984322012433815,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 35.984322012433815,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 34.324444205919534,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 239
     },
     {
@@ -37359,8 +37359,8 @@
       "yearsFreeAgent": 0,
       "value": 35.984322012433815,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 35.984322012433815,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 38.474138722205225,
+      "valueNoPotFuzz": 41.81971600239698,
       "pid": 240
     },
     {
@@ -37650,8 +37650,8 @@
       "yearsFreeAgent": 1,
       "value": 36.2266494804467,
       "valueNoPot": 29.19021095283184,
-      "valueFuzz": 36.2266494804467,
-      "valueNoPotFuzz": 29.19021095283184,
+      "valueFuzz": 35.32454197690633,
+      "valueNoPotFuzz": 28.288103449291473,
       "pid": 242
     },
     {
@@ -37796,8 +37796,8 @@
       "yearsFreeAgent": 0,
       "value": 35.593188077516054,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 35.593188077516054,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 34.77227024929432,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 243
     },
     {
@@ -37942,8 +37942,8 @@
       "yearsFreeAgent": 0,
       "value": 35.53649596905903,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 35.53649596905903,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 31.34169607759632,
+      "valueNoPotFuzz": 33.700748470533675,
       "pid": 244
     },
     {
@@ -38087,8 +38087,8 @@
       "yearsFreeAgent": 1,
       "value": 35.730490353499505,
       "valueNoPot": 33.700748470533675,
-      "valueFuzz": 35.730490353499505,
-      "valueNoPotFuzz": 33.700748470533675,
+      "valueFuzz": 33.92627534641878,
+      "valueNoPotFuzz": 31.896533463452943,
       "pid": 245
     },
     {
@@ -38378,8 +38378,8 @@
       "yearsFreeAgent": 0,
       "value": 35.15438310917668,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 35.15438310917668,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 31.834627496148123,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 247
     },
     {
@@ -38524,8 +38524,8 @@
       "yearsFreeAgent": 1,
       "value": 35.15438310917668,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 35.15438310917668,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 35.984322012433815,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 248
     },
     {
@@ -38670,8 +38670,8 @@
       "yearsFreeAgent": 1,
       "value": 35.15438310917668,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 35.15438310917668,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 34.324444205919534,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 249
     },
     {
@@ -38816,8 +38816,8 @@
       "yearsFreeAgent": 0,
       "value": 35.15438310917668,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 35.15438310917668,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 34.324444205919534,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 250
     },
     {
@@ -38964,8 +38964,8 @@
       "yearsFreeAgent": 1,
       "value": 35.15438310917668,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 35.15438310917668,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 30.17474968963385,
+      "valueNoPotFuzz": 32.79864096699331,
       "pid": 251
     },
     {
@@ -39110,8 +39110,8 @@
       "yearsFreeAgent": 0,
       "value": 35.07062777561344,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 35.07062777561344,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 29.13476040231782,
+      "valueNoPotFuzz": 30.994425959912576,
       "pid": 252
     },
     {
@@ -39256,8 +39256,8 @@
       "yearsFreeAgent": 1,
       "value": 35.07062777561344,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 35.07062777561344,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 33.37466566895754,
+      "valueNoPotFuzz": 35.50496347761441,
       "pid": 253
     },
     {
@@ -39409,8 +39409,8 @@
       "yearsFreeAgent": 1,
       "value": 34.77227024929432,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 34.77227024929432,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 33.130434592850854,
+      "valueNoPotFuzz": 36.40707098115478,
       "pid": 254
     },
     {
@@ -39561,8 +39561,8 @@
       "yearsFreeAgent": 1,
       "value": 34.77227024929432,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 34.77227024929432,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 29.02584545174218,
+      "valueNoPotFuzz": 31.896533463452943,
       "pid": 255
     },
     {
@@ -39707,8 +39707,8 @@
       "yearsFreeAgent": 0,
       "value": 34.77227024929432,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 34.77227024929432,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 33.951352421072585,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 256
     },
     {
@@ -39852,8 +39852,8 @@
       "yearsFreeAgent": 1,
       "value": 34.77227024929432,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 34.77227024929432,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 36.414105905737784,
+      "valueNoPotFuzz": 40.015500995316245,
       "pid": 257
     },
     {
@@ -39997,8 +39997,8 @@
       "yearsFreeAgent": 1,
       "value": 35.05390972584423,
       "valueNoPot": 30.092318456372208,
-      "valueFuzz": 35.05390972584423,
-      "valueNoPotFuzz": 30.092318456372208,
+      "valueFuzz": 36.85812473292496,
+      "valueNoPotFuzz": 31.896533463452943,
       "pid": 258
     },
     {
@@ -40142,8 +40142,8 @@
       "yearsFreeAgent": 0,
       "value": 34.58671743209704,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 34.58671743209704,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 36.30072168882374,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 259
     },
     {
@@ -40288,8 +40288,8 @@
       "yearsFreeAgent": 1,
       "value": 34.58671743209704,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 34.58671743209704,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 36.30072168882374,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 260
     },
     {
@@ -40434,8 +40434,8 @@
       "yearsFreeAgent": 0,
       "value": 34.324444205919534,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 34.324444205919534,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 32.66456639940526,
+      "valueNoPotFuzz": 35.50496347761441,
       "pid": 261
     },
     {
@@ -40724,8 +40724,8 @@
       "yearsFreeAgent": 0,
       "value": 34.78327747478211,
       "valueNoPot": 33.700748470533675,
-      "valueFuzz": 34.78327747478211,
-      "valueNoPotFuzz": 33.700748470533675,
+      "valueFuzz": 28.468524949999548,
+      "valueNoPotFuzz": 27.38599594575111,
       "pid": 263
     },
     {
@@ -40870,8 +40870,8 @@
       "yearsFreeAgent": 0,
       "value": 61.21502732851488,
       "valueNoPot": 45.42814601655845,
-      "valueFuzz": 61.21502732851488,
-      "valueNoPotFuzz": 45.42814601655845,
+      "valueFuzz": 58.50870481789377,
+      "valueNoPotFuzz": 42.72182350593735,
       "pid": 264
     },
     {
@@ -41015,8 +41015,8 @@
       "yearsFreeAgent": 0,
       "value": 52.825427545589456,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 52.825427545589456,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 51.92332004204909,
+      "valueNoPotFuzz": 35.50496347761441,
       "pid": 265
     },
     {
@@ -41161,8 +41161,8 @@
       "yearsFreeAgent": 0,
       "value": 54.71985330302423,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 54.71985330302423,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 52.013530792403124,
+      "valueNoPotFuzz": 33.700748470533675,
       "pid": 266
     },
     {
@@ -41306,8 +41306,8 @@
       "yearsFreeAgent": 0,
       "value": 42.992455756999455,
       "valueNoPot": 24.679673435130002,
-      "valueFuzz": 42.992455756999455,
-      "valueNoPotFuzz": 24.679673435130002,
+      "valueFuzz": 44.7966707640802,
+      "valueNoPotFuzz": 26.48388844221074,
       "pid": 267
     },
     {
@@ -41452,8 +41452,8 @@
       "yearsFreeAgent": 0,
       "value": 47.59320402505533,
       "valueNoPot": 27.38599594575111,
-      "valueFuzz": 47.59320402505533,
-      "valueNoPotFuzz": 27.38599594575111,
+      "valueFuzz": 49.39741903213607,
+      "valueNoPotFuzz": 29.19021095283184,
       "pid": 268
     },
     {
@@ -41598,8 +41598,8 @@
       "yearsFreeAgent": 0,
       "value": 56.794700561167076,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 56.794700561167076,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 54.08837805054597,
+      "valueNoPotFuzz": 36.40707098115478,
       "pid": 269
     },
     {
@@ -41743,8 +41743,8 @@
       "yearsFreeAgent": 0,
       "value": 52.645006044881384,
       "valueNoPot": 33.700748470533675,
-      "valueFuzz": 52.645006044881384,
-      "valueNoPotFuzz": 33.700748470533675,
+      "valueFuzz": 53.54711354842175,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 270
     },
     {
@@ -41889,8 +41889,8 @@
       "yearsFreeAgent": 0,
       "value": 50.47994803638451,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 50.47994803638451,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 52.284163043465234,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 271
     },
     {
@@ -42034,8 +42034,8 @@
       "yearsFreeAgent": 0,
       "value": 49.577840532844135,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 49.577840532844135,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 50.47994803638451,
+      "valueNoPotFuzz": 32.79864096699331,
       "pid": 272
     },
     {
@@ -42179,8 +42179,8 @@
       "yearsFreeAgent": 0,
       "value": 49.307208281782025,
       "valueNoPot": 30.994425959912576,
-      "valueFuzz": 49.307208281782025,
-      "valueNoPotFuzz": 30.994425959912576,
+      "valueFuzz": 50.2093157853224,
+      "valueNoPotFuzz": 31.896533463452943,
       "pid": 273
     },
     {
@@ -42324,8 +42324,8 @@
       "yearsFreeAgent": 0,
       "value": 51.74289854134102,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 51.74289854134102,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 46.33025352009882,
+      "valueNoPotFuzz": 27.38599594575111,
       "pid": 274
     },
     {
@@ -42470,8 +42470,8 @@
       "yearsFreeAgent": 0,
       "value": 42.81203425629138,
       "valueNoPot": 28.288103449291473,
-      "valueFuzz": 42.81203425629138,
-      "valueNoPotFuzz": 28.288103449291473,
+      "valueFuzz": 44.61624926337211,
+      "valueNoPotFuzz": 30.092318456372208,
       "pid": 275
     },
     {
@@ -42615,8 +42615,8 @@
       "yearsFreeAgent": 0,
       "value": 45.42814601655845,
       "valueNoPot": 26.48388844221074,
-      "valueFuzz": 45.42814601655845,
-      "valueNoPotFuzz": 26.48388844221074,
+      "valueFuzz": 44.52603851301809,
+      "valueNoPotFuzz": 25.581780938670374,
       "pid": 276
     },
     {
@@ -42760,8 +42760,8 @@
       "yearsFreeAgent": 0,
       "value": 44.61624926337211,
       "valueNoPot": 30.092318456372208,
-      "valueFuzz": 44.61624926337211,
-      "valueNoPotFuzz": 30.092318456372208,
+      "valueFuzz": 49.12678678107395,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 277
     },
     {
@@ -42906,8 +42906,8 @@
       "yearsFreeAgent": 0,
       "value": 40.60187087261749,
       "valueNoPot": 28.288103449291473,
-      "valueFuzz": 40.60187087261749,
-      "valueNoPotFuzz": 28.288103449291473,
+      "valueFuzz": 41.50397837615785,
+      "valueNoPotFuzz": 29.19021095283184,
       "pid": 278
     },
     {
@@ -43051,8 +43051,8 @@
       "yearsFreeAgent": 0,
       "value": 47.45788789952428,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 47.45788789952428,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 48.359995403064644,
+      "valueNoPotFuzz": 33.700748470533675,
       "pid": 279
     },
     {
@@ -43492,8 +43492,8 @@
       "yearsFreeAgent": 0,
       "value": 52.058636167580154,
       "valueNoPot": 40.917608498856616,
-      "valueFuzz": 52.058636167580154,
-      "valueNoPotFuzz": 40.917608498856616,
+      "valueFuzz": 50.25442116049942,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 282
     },
     {
@@ -43638,8 +43638,8 @@
       "yearsFreeAgent": 0,
       "value": 49.262102906605016,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 49.262102906605016,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 50.16421041014538,
+      "valueNoPotFuzz": 35.50496347761441,
       "pid": 283
     },
     {
@@ -43783,8 +43783,8 @@
       "yearsFreeAgent": 0,
       "value": 45.33793526620442,
       "valueNoPot": 30.092318456372208,
-      "valueFuzz": 45.33793526620442,
-      "valueNoPotFuzz": 30.092318456372208,
+      "valueFuzz": 49.84847278390625,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 284
     },
     {
@@ -43929,8 +43929,8 @@
       "yearsFreeAgent": 0,
       "value": 58.23807256683166,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 58.23807256683166,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 56.43385755975093,
+      "valueNoPotFuzz": 47.232361023639186,
       "pid": 285
     },
     {
@@ -44074,8 +44074,8 @@
       "yearsFreeAgent": 0,
       "value": 43.623931009477715,
       "valueNoPot": 30.092318456372208,
-      "valueFuzz": 43.623931009477715,
-      "valueNoPotFuzz": 30.092318456372208,
+      "valueFuzz": 40.917608498856616,
+      "valueNoPotFuzz": 27.38599594575111,
       "pid": 286
     },
     {
@@ -44375,8 +44375,8 @@
       "yearsFreeAgent": 0,
       "value": 40.376343996732395,
       "valueNoPot": 30.092318456372208,
-      "valueFuzz": 40.376343996732395,
-      "valueNoPotFuzz": 30.092318456372208,
+      "valueFuzz": 43.98477401089386,
+      "valueNoPotFuzz": 33.700748470533675,
       "pid": 288
     },
     {
@@ -44521,8 +44521,8 @@
       "yearsFreeAgent": 0,
       "value": 42.360980504521194,
       "valueNoPot": 33.700748470533675,
-      "valueFuzz": 42.360980504521194,
-      "valueNoPotFuzz": 33.700748470533675,
+      "valueFuzz": 41.45887300098083,
+      "valueNoPotFuzz": 32.79864096699331,
       "pid": 289
     },
     {
@@ -44667,8 +44667,8 @@
       "yearsFreeAgent": 0,
       "value": 40.19592249602432,
       "valueNoPot": 30.994425959912576,
-      "valueFuzz": 40.19592249602432,
-      "valueNoPotFuzz": 30.994425959912576,
+      "valueFuzz": 39.29381499248395,
+      "valueNoPotFuzz": 30.092318456372208,
       "pid": 290
     },
     {
@@ -44812,8 +44812,8 @@
       "yearsFreeAgent": 0,
       "value": 41.09802999956469,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 41.09802999956469,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 34.78327747478212,
+      "valueNoPotFuzz": 28.288103449291473,
       "pid": 291
     },
     {
@@ -44957,8 +44957,8 @@
       "yearsFreeAgent": 0,
       "value": 57.78701881506148,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 57.78701881506148,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 58.68912631860185,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 292
     },
     {
@@ -45102,8 +45102,8 @@
       "yearsFreeAgent": 0,
       "value": 56.524068310104965,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 56.524068310104965,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 61.936713331347164,
+      "valueNoPotFuzz": 43.623931009477715,
       "pid": 293
     },
     {
@@ -45247,8 +45247,8 @@
       "yearsFreeAgent": 0,
       "value": 50.2093157853224,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 50.2093157853224,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 48.40510077824166,
+      "valueNoPotFuzz": 30.092318456372208,
       "pid": 294
     },
     {
@@ -45393,8 +45393,8 @@
       "yearsFreeAgent": 0,
       "value": 44.43582776266405,
       "valueNoPot": 27.38599594575111,
-      "valueFuzz": 44.43582776266405,
-      "valueNoPotFuzz": 27.38599594575111,
+      "valueFuzz": 40.82739774850257,
+      "valueNoPotFuzz": 23.77756593158964,
       "pid": 295
     },
     {
@@ -45538,8 +45538,8 @@
       "yearsFreeAgent": 0,
       "value": 40.46655474708643,
       "valueNoPot": 24.679673435130002,
-      "valueFuzz": 40.46655474708643,
-      "valueNoPotFuzz": 24.679673435130002,
+      "valueFuzz": 44.0749847612479,
+      "valueNoPotFuzz": 28.288103449291473,
       "pid": 296
     },
     {
@@ -45683,8 +45683,8 @@
       "yearsFreeAgent": 0,
       "value": 48.94636528036588,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 48.94636528036588,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 41.72950525204294,
+      "valueNoPotFuzz": 24.679673435130002,
       "pid": 297
     },
     {
@@ -45829,8 +45829,8 @@
       "yearsFreeAgent": 0,
       "value": 50.028894284614324,
       "valueNoPot": 29.19021095283184,
-      "valueFuzz": 50.028894284614324,
-      "valueNoPotFuzz": 29.19021095283184,
+      "valueFuzz": 51.83310929169505,
+      "valueNoPotFuzz": 30.994425959912576,
       "pid": 298
     },
     {
@@ -45974,8 +45974,8 @@
       "yearsFreeAgent": 0,
       "value": 40.105711745670284,
       "valueNoPot": 25.581780938670374,
-      "valueFuzz": 40.105711745670284,
-      "valueNoPotFuzz": 25.581780938670374,
+      "valueFuzz": 34.69306672442808,
+      "valueNoPotFuzz": 20.16913591742817,
       "pid": 299
     },
     {
@@ -46124,8 +46124,8 @@
       "yearsFreeAgent": 0,
       "value": 55.53175005621056,
       "valueNoPot": 39.11339349177588,
-      "valueFuzz": 55.53175005621056,
-      "valueNoPotFuzz": 39.11339349177588,
+      "valueFuzz": 60.94439507745277,
+      "valueNoPotFuzz": 44.52603851301809,
       "pid": 300
     },
     {
@@ -46269,8 +46269,8 @@
       "yearsFreeAgent": 0,
       "value": 52.825427545589456,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 52.825427545589456,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 50.11910503496836,
+      "valueNoPotFuzz": 33.700748470533675,
       "pid": 301
     },
     {
@@ -46414,8 +46414,8 @@
       "yearsFreeAgent": 0,
       "value": 52.10374154275716,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 52.10374154275716,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 54.81006405337826,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 302
     },
     {
@@ -46560,8 +46560,8 @@
       "yearsFreeAgent": 0,
       "value": 50.11910503496836,
       "valueNoPot": 33.700748470533675,
-      "valueFuzz": 50.11910503496836,
-      "valueNoPotFuzz": 33.700748470533675,
+      "valueFuzz": 49.21699753142799,
+      "valueNoPotFuzz": 32.79864096699331,
       "pid": 303
     },
     {
@@ -46706,8 +46706,8 @@
       "yearsFreeAgent": 0,
       "value": 49.93868353426029,
       "valueNoPot": 30.994425959912576,
-      "valueFuzz": 49.93868353426029,
-      "valueNoPotFuzz": 30.994425959912576,
+      "valueFuzz": 53.54711354842175,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 304
     },
     {
@@ -46852,8 +46852,8 @@
       "yearsFreeAgent": 0,
       "value": 55.08069630444037,
       "valueNoPot": 35.50496347761441,
-      "valueFuzz": 55.08069630444037,
-      "valueNoPotFuzz": 35.50496347761441,
+      "valueFuzz": 58.68912631860185,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 305
     },
     {
@@ -46998,8 +46998,8 @@
       "yearsFreeAgent": 0,
       "value": 54.04327267536896,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 54.04327267536896,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 54.94538017890933,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 306
     },
     {
@@ -47290,8 +47290,8 @@
       "yearsFreeAgent": 0,
       "value": 51.38205553992488,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 51.38205553992488,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 50.47994803638451,
+      "valueNoPotFuzz": 36.40707098115478,
       "pid": 308
     },
     {
@@ -47436,8 +47436,8 @@
       "yearsFreeAgent": 0,
       "value": 55.216012429971435,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 55.216012429971435,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 56.11811993351181,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 309
     },
     {
@@ -47585,8 +47585,8 @@
       "yearsFreeAgent": 0,
       "value": 57.69680806470744,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 57.69680806470744,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 56.794700561167076,
+      "valueNoPotFuzz": 42.72182350593735,
       "pid": 310
     },
     {
@@ -47731,8 +47731,8 @@
       "yearsFreeAgent": 0,
       "value": 43.35329875841561,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 43.35329875841561,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 47.863836276117446,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 311
     },
     {
@@ -47877,8 +47877,8 @@
       "yearsFreeAgent": 0,
       "value": 61.350343454045934,
       "valueNoPot": 49.03657603071992,
-      "valueFuzz": 61.350343454045934,
-      "valueNoPotFuzz": 49.03657603071992,
+      "valueFuzz": 57.74191343988446,
+      "valueNoPotFuzz": 45.42814601655845,
       "pid": 312
     },
     {
@@ -48028,8 +48028,8 @@
       "yearsFreeAgent": 0,
       "value": 65.27451109444652,
       "valueNoPot": 57.155543562583226,
-      "valueFuzz": 65.27451109444652,
-      "valueNoPotFuzz": 57.155543562583226,
+      "valueFuzz": 63.470296087365796,
+      "valueNoPotFuzz": 55.35132855550249,
       "pid": 313
     },
     {
@@ -48173,8 +48173,8 @@
       "yearsFreeAgent": 0,
       "value": 29.731475454956062,
       "valueNoPot": 23.77756593158964,
-      "valueFuzz": 29.731475454956062,
-      "valueNoPotFuzz": 23.77756593158964,
+      "valueFuzz": 30.633582958496426,
+      "valueNoPotFuzz": 24.679673435130002,
       "pid": 314
     },
     {
@@ -48464,8 +48464,8 @@
       "yearsFreeAgent": 0,
       "value": 52.28416304346524,
       "valueNoPot": 43.623931009477715,
-      "valueFuzz": 52.28416304346524,
-      "valueNoPotFuzz": 43.623931009477715,
+      "valueFuzz": 54.08837805054598,
+      "valueNoPotFuzz": 45.42814601655845,
       "pid": 316
     },
     {
@@ -48609,8 +48609,8 @@
       "yearsFreeAgent": 0,
       "value": 45.7889890179746,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 45.7889890179746,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 47.59320402505533,
+      "valueNoPotFuzz": 40.015500995316245,
       "pid": 317
     },
     {
@@ -48755,8 +48755,8 @@
       "yearsFreeAgent": 0,
       "value": 47.593204025055336,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 47.593204025055336,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 43.98477401089386,
+      "valueNoPotFuzz": 33.700748470533675,
       "pid": 318
     },
     {
@@ -49047,8 +49047,8 @@
       "yearsFreeAgent": 0,
       "value": 53.72753504912983,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 53.72753504912983,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 52.825427545589456,
+      "valueNoPotFuzz": 36.40707098115478,
       "pid": 320
     },
     {
@@ -49197,8 +49197,8 @@
       "yearsFreeAgent": 0,
       "value": 63.83113908878193,
       "valueNoPot": 49.938683534260285,
-      "valueFuzz": 63.83113908878193,
-      "valueNoPotFuzz": 49.938683534260285,
+      "valueFuzz": 54.81006405337827,
+      "valueNoPotFuzz": 40.917608498856616,
       "pid": 321
     },
     {
@@ -49343,8 +49343,8 @@
       "yearsFreeAgent": 0,
       "value": 54.81006405337826,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 54.81006405337826,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 60.222709074620475,
+      "valueNoPotFuzz": 40.015500995316245,
       "pid": 322
     },
     {
@@ -49489,8 +49489,8 @@
       "yearsFreeAgent": 0,
       "value": 52.284163043465234,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 52.284163043465234,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 54.99048555408634,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 323
     },
     {
@@ -49634,8 +49634,8 @@
       "yearsFreeAgent": 0,
       "value": 53.54711354842175,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 53.54711354842175,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 41.81971600239698,
+      "valueNoPotFuzz": 22.87545842804927,
       "pid": 324
     },
     {
@@ -49784,8 +49784,8 @@
       "yearsFreeAgent": 0,
       "value": 56.34364680939689,
       "valueNoPot": 35.50496347761441,
-      "valueFuzz": 56.34364680939689,
-      "valueNoPotFuzz": 35.50496347761441,
+      "valueFuzz": 59.04996932001799,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 325
     },
     {
@@ -49929,8 +49929,8 @@
       "yearsFreeAgent": 0,
       "value": 48.31489002788763,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 48.31489002788763,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 57.3359650632913,
+      "valueNoPotFuzz": 40.917608498856616,
       "pid": 326
     },
     {
@@ -50075,8 +50075,8 @@
       "yearsFreeAgent": 0,
       "value": 52.46458454417331,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 52.46458454417331,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 53.36669204771368,
+      "valueNoPotFuzz": 38.21128598823552,
       "pid": 327
     },
     {
@@ -50221,8 +50221,8 @@
       "yearsFreeAgent": 0,
       "value": 50.11910503496836,
       "valueNoPot": 33.700748470533675,
-      "valueFuzz": 50.11910503496836,
-      "valueNoPotFuzz": 33.700748470533675,
+      "valueFuzz": 55.53175005621056,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 328
     },
     {
@@ -50367,8 +50367,8 @@
       "yearsFreeAgent": 0,
       "value": 43.894563260539826,
       "valueNoPot": 25.581780938670374,
-      "valueFuzz": 43.894563260539826,
-      "valueNoPotFuzz": 25.581780938670374,
+      "valueFuzz": 32.16716571451505,
+      "valueNoPotFuzz": 13.854383392645602,
       "pid": 329
     },
     {
@@ -50512,8 +50512,8 @@
       "yearsFreeAgent": 0,
       "value": 44.255406261955976,
       "valueNoPot": 24.679673435130002,
-      "valueFuzz": 44.255406261955976,
-      "valueNoPotFuzz": 24.679673435130002,
+      "valueFuzz": 41.54908375133487,
+      "valueNoPotFuzz": 21.9733509245089,
       "pid": 330
     },
     {
@@ -50657,8 +50657,8 @@
       "yearsFreeAgent": 0,
       "value": 50.47994803638451,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 50.47994803638451,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 54.99048555408634,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 331
     },
     {
@@ -50803,8 +50803,8 @@
       "yearsFreeAgent": 0,
       "value": 54.71985330302423,
       "valueNoPot": 36.40707098115478,
-      "valueFuzz": 54.71985330302423,
-      "valueNoPotFuzz": 36.40707098115478,
+      "valueFuzz": 46.60088577116093,
+      "valueNoPotFuzz": 28.288103449291473,
       "pid": 332
     },
     {
@@ -50948,8 +50948,8 @@
       "yearsFreeAgent": 0,
       "value": 50.2093157853224,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 50.2093157853224,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 48.40510077824166,
+      "valueNoPotFuzz": 30.092318456372208,
       "pid": 333
     },
     {
@@ -51094,8 +51094,8 @@
       "yearsFreeAgent": 0,
       "value": 55.306223180325475,
       "valueNoPot": 41.81971600239698,
-      "valueFuzz": 55.306223180325475,
-      "valueNoPotFuzz": 41.81971600239698,
+      "valueFuzz": 50.79568566262364,
+      "valueNoPotFuzz": 37.309178484695146,
       "pid": 334
     },
     {
@@ -51239,8 +51239,8 @@
       "yearsFreeAgent": 0,
       "value": 43.21798263288455,
       "valueNoPot": 27.38599594575111,
-      "valueFuzz": 43.21798263288455,
-      "valueNoPotFuzz": 27.38599594575111,
+      "valueFuzz": 44.12009013642492,
+      "valueNoPotFuzz": 28.288103449291473,
       "pid": 335
     },
     {
@@ -51385,8 +51385,8 @@
       "yearsFreeAgent": 0,
       "value": 49.262102906605016,
       "valueNoPot": 34.602855974074046,
-      "valueFuzz": 49.262102906605016,
-      "valueNoPotFuzz": 34.602855974074046,
+      "valueFuzz": 42.94735038182244,
+      "valueNoPotFuzz": 28.288103449291473,
       "pid": 336
     },
     {
@@ -51530,8 +51530,8 @@
       "yearsFreeAgent": 0,
       "value": 59.23039082072607,
       "valueNoPot": 46.33025352009882,
-      "valueFuzz": 59.23039082072607,
-      "valueNoPotFuzz": 46.33025352009882,
+      "valueFuzz": 53.817745799483866,
+      "valueNoPotFuzz": 40.917608498856616,
       "pid": 337
     },
     {
@@ -51675,8 +51675,8 @@
       "yearsFreeAgent": 0,
       "value": 46.555780395983916,
       "valueNoPot": 31.896533463452943,
-      "valueFuzz": 46.555780395983916,
-      "valueNoPotFuzz": 31.896533463452943,
+      "valueFuzz": 49.262102906605016,
+      "valueNoPotFuzz": 34.602855974074046,
       "pid": 338
     },
     {
@@ -51821,8 +51821,8 @@
       "yearsFreeAgent": 0,
       "value": 60.08739294908942,
       "valueNoPot": 45.42814601655845,
-      "valueFuzz": 60.08739294908942,
-      "valueNoPotFuzz": 45.42814601655845,
+      "valueFuzz": 67.30425297741236,
+      "valueNoPotFuzz": 52.64500604488139,
       "pid": 339
     },
     {
@@ -51966,8 +51966,8 @@
       "yearsFreeAgent": 0,
       "value": 38.21128598823552,
       "valueNoPot": 26.48388844221074,
-      "valueFuzz": 38.21128598823552,
-      "valueNoPotFuzz": 26.48388844221074,
+      "valueFuzz": 37.309178484695146,
+      "valueNoPotFuzz": 25.581780938670374,
       "pid": 340
     },
     {
@@ -52111,8 +52111,8 @@
       "yearsFreeAgent": 0,
       "value": 45.7889890179746,
       "valueNoPot": 35.50496347761441,
-      "valueFuzz": 45.7889890179746,
-      "valueNoPotFuzz": 35.50496347761441,
+      "valueFuzz": 38.57212898965166,
+      "valueNoPotFuzz": 28.288103449291473,
       "pid": 341
     },
     {
@@ -52256,8 +52256,8 @@
       "yearsFreeAgent": 0,
       "value": 47.051939522931114,
       "valueNoPot": 37.309178484695146,
-      "valueFuzz": 47.051939522931114,
-      "valueNoPotFuzz": 37.309178484695146,
+      "valueFuzz": 51.56247704063294,
+      "valueNoPotFuzz": 41.81971600239698,
       "pid": 342
     },
     {
@@ -52401,8 +52401,8 @@
       "yearsFreeAgent": 0,
       "value": 43.623931009477715,
       "valueNoPot": 32.79864096699331,
-      "valueFuzz": 43.623931009477715,
-      "valueNoPotFuzz": 32.79864096699331,
+      "valueFuzz": 49.938683534260285,
+      "valueNoPotFuzz": 39.11339349177588,
       "pid": 343
     },
     {
@@ -52547,8 +52547,8 @@
       "yearsFreeAgent": 0,
       "value": 49.03657603071992,
       "valueNoPot": 38.21128598823552,
-      "valueFuzz": 49.03657603071992,
-      "valueNoPotFuzz": 38.21128598823552,
+      "valueFuzz": 58.05765106612358,
+      "valueNoPotFuzz": 47.232361023639186,
       "pid": 344
     },
     {
@@ -52692,8 +52692,8 @@
       "yearsFreeAgent": 0,
       "value": 61.48565957957699,
       "valueNoPot": 54.44922105196213,
-      "valueFuzz": 61.48565957957699,
-      "valueNoPotFuzz": 54.44922105196213,
+      "valueFuzz": 56.07301455833479,
+      "valueNoPotFuzz": 49.03657603071992,
       "pid": 345
     },
     {
@@ -52838,8 +52838,8 @@
       "yearsFreeAgent": 0,
       "value": 32.79864096699331,
       "valueNoPot": 27.38599594575111,
-      "valueFuzz": 32.79864096699331,
-      "valueNoPotFuzz": 27.38599594575111,
+      "valueFuzz": 31.896533463452943,
+      "valueNoPotFuzz": 26.48388844221074,
       "pid": 346
     },
     {
@@ -52984,8 +52984,8 @@
       "yearsFreeAgent": 0,
       "value": 44.16519551160194,
       "valueNoPot": 35.50496347761441,
-      "valueFuzz": 44.16519551160194,
-      "valueNoPotFuzz": 35.50496347761441,
+      "valueFuzz": 35.14412047619827,
+      "valueNoPotFuzz": 26.48388844221074,
       "pid": 347
     }
   ],
@@ -54518,26 +54518,18 @@
       22
     ],
     "draftLotteryCustomChances": [
-      140,
-      140,
-      140,
-      125,
-      105,
-      90,
-      75,
-      60,
-      45,
-      30,
-      20,
+      25,
+      25,
+      15,
       15,
       10,
-      5
+      10
     ],
-    "draftLotteryCustomNumPicks": 4,
+    "draftLotteryCustomNumPicks": 2,
     "draftPickAutoContract": true,
     "draftPickAutoContractPercent": 25,
     "draftPickAutoContractRounds": 1,
-    "draftType": "nba2019",
+    "draftType": "custom",
     "elam": false,
     "elamASG": false,
     "elamMinutes": 4,
@@ -54664,11 +54656,11 @@
     "userTid": [
       {
         "start": null,
-        "value": 5
+        "value": 0
       }
     ],
     "userTids": [
-      5
+      0
     ],
     "weightFactor": 1
   },
